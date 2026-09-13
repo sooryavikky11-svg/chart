@@ -71,7 +71,19 @@ class CollectorTests(unittest.TestCase):
                     ],
                 )
 
+    def test_duplicate_input_uses_last_bar_without_false_update(self) -> None:
+        timestamp = datetime(2024, 1, 2, 12, 30, tzinfo=UTC)
+        original = Bar(timestamp, 10, 12, 9, 11, 5, "test", "ABC")
+        temporary = Bar(timestamp, 10, 13, 9, 12, 6, "test", "ABC")
+
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            write_bars(root, "abc", [original])
+            self.assertEqual(
+                write_bars(root, "abc", [temporary, original]),
+                (0, 0, 0),
+            )
+
 
 if __name__ == "__main__":
     unittest.main()
-

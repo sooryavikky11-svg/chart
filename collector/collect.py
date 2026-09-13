@@ -259,14 +259,16 @@ def write_bars(data_root: Path, name: str, bars: Iterable[Bar]) -> tuple[int, in
         )
         existing = read_rows(path)
         before = dict(existing)
+        incoming: dict[str, dict[str, str]] = {}
         for bar in day_bars:
             row = bar_to_row(bar)
-            key = row["timestamp_utc"]
-            if key not in existing:
-                inserted += 1
-            elif existing[key] != row:
-                updated += 1
-            existing[key] = row
+            incoming[row["timestamp_utc"]] = row
+
+        inserted += sum(key not in before for key in incoming)
+        updated += sum(
+            key in before and before[key] != row for key, row in incoming.items()
+        )
+        existing.update(incoming)
 
         if existing == before:
             continue
