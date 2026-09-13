@@ -1,0 +1,47 @@
+{
+  "feeds": [
+    {
+      "provider": "yahoo",
+      "symbol": "^NSEI",
+      "name": "nifty_50_spot",
+      "interval": "1m",
+      "range": "7d"
+    },
+    {
+      "provider": "yahoo",
+      "symbol": "GC=F",
+      "name": "gold_futures",
+      "interval": "1m",
+      "range": "7d"
+    },
+    {
+      "provider": "yahoo",
+      "symbol": "EURUSD=X",
+      "name": "eurusd",
+      "interval": "1m",
+      "range": "7d"
+    },
+    {
+      "provider": "yahoo",
+      "symbol": "USDINR=X",
+      "name": "usdinr",
+      "interval": "1m",
+      "range": "7d"
+    },
+    {
+      "provider": "dukascopy",
+      "symbol": "EURUSD",
+      "name": "eurusd",
+      "price_scale": 100000,
+      "days_back": 3
+    },
+    {
+      "provider": "dukascopy",
+      "symbol": "XAUUSD",
+      "name": "xauusd",
+      "price_scale": 1000,
+      "days_back": 3
+    }
+  ]
+}
+
