@@ -13,6 +13,7 @@ future strategy backtesting.
 | Yahoo Finance | USD/INR | `USDINR=X` |
 | Dukascopy | EUR/USD | `EURUSD` |
 | Dukascopy | Gold spot | `XAUUSD` |
+| Yahoo Finance | Top 1,000 NSE equities by market capitalization | `<NSE symbol>.NS` |
 
 Yahoo downloads its rolling seven-day one-minute window on every run, allowing
 the collector to recover from several missed days. Dukascopy downloads the last
@@ -22,6 +23,12 @@ into one-minute bars.
 Data from different providers is never merged. Every CSV row includes its source
 and symbol, timestamps are normalized to UTC, and repeated collection runs
 deduplicate by timestamp.
+
+The top-1,000 universe is rebuilt from Screener's descending market-cap ranking
+and intersected with the official NSE EQ-series symbol master. Its compressed
+one-minute files are partitioned by symbol and UTC date under
+`data/yahoo/nse_top1000/`. A complete per-symbol audit manifest is stored under
+`logs/nse_top1000/`.
 
 ## Automation
 

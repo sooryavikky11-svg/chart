@@ -34,6 +34,11 @@ jobs:
         continue-on-error: true
         run: python collector/collect.py
 
+      - name: Collect top 1000 NSE equities
+        id: collect_nse_top1000
+        continue-on-error: true
+        run: python collector/collect_nse_top1000.py
+
       - name: Commit data and audit logs
         if: always()
         run: |
@@ -48,7 +53,7 @@ jobs:
           fi
 
       - name: Report collection failure
-        if: steps.collect.outcome == 'failure'
+        if: steps.collect.outcome == 'failure' || steps.collect_nse_top1000.outcome == 'failure'
         run: |
           echo "One or more feeds failed. Review logs/latest.json."
           exit 1
