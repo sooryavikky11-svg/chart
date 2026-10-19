@@ -1,10 +1,10 @@
 {
-  "run_started_utc": "2026-10-18T01:17:02.574936+00:00",
-  "run_completed_utc": "2026-10-18T01:18:35.043343+00:00",
+  "run_started_utc": "2026-10-19T01:29:36.587722+00:00",
+  "run_completed_utc": "2026-10-19T01:30:58.703268+00:00",
   "requested_symbols": 1000,
   "successful_symbols": 1000,
   "failed_symbols": 0,
-  "total_bars": 2321673,
+  "total_bars": 2321675,
   "universe_method": "Current Screener top-stocks ranking sorted by market capitalization, intersected with the official NSE EQ-series symbol master.",
   "results": [
     {
@@ -902,7 +902,7 @@
       "nse_symbol": "GAIL",
       "yahoo_symbol": "GAIL.NS",
       "status": "success",
-      "bars": 2517,
+      "bars": 2518,
       "earliest_timestamp": "2026-10-08T03:45:00Z",
       "latest_timestamp": "2026-10-16T09:59:00Z",
       "error": null
@@ -1762,7 +1762,7 @@
       "nse_symbol": "RBLBANK",
       "yahoo_symbol": "RBLBANK.NS",
       "status": "success",
-      "bars": 2516,
+      "bars": 2517,
       "earliest_timestamp": "2026-10-08T03:45:00Z",
       "latest_timestamp": "2026-10-16T09:59:00Z",
       "error": null
