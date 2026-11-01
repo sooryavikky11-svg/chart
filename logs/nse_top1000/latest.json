@@ -1,10 +1,10 @@
 {
-  "run_started_utc": "2026-10-31T02:35:19.592537+00:00",
-  "run_completed_utc": "2026-10-31T02:36:44.023316+00:00",
+  "run_started_utc": "2026-11-01T02:26:06.767654+00:00",
+  "run_completed_utc": "2026-11-01T02:27:39.580733+00:00",
   "requested_symbols": 1000,
   "successful_symbols": 1000,
   "failed_symbols": 0,
-  "total_bars": 2341560,
+  "total_bars": 2341804,
   "universe_method": "Current Screener top-stocks ranking sorted by market capitalization, intersected with the official NSE EQ-series symbol master.",
   "results": [
     {
@@ -12,7 +12,7 @@
       "nse_symbol": "RELIANCE",
       "yahoo_symbol": "RELIANCE.NS",
       "status": "success",
-      "bars": 2532,
+      "bars": 2533,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -52,7 +52,7 @@
       "nse_symbol": "TCS",
       "yahoo_symbol": "TCS.NS",
       "status": "success",
-      "bars": 2531,
+      "bars": 2532,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -132,7 +132,7 @@
       "nse_symbol": "SUNPHARMA",
       "yahoo_symbol": "SUNPHARMA.NS",
       "status": "success",
-      "bars": 2529,
+      "bars": 2530,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -172,7 +172,7 @@
       "nse_symbol": "AXISBANK",
       "yahoo_symbol": "AXISBANK.NS",
       "status": "success",
-      "bars": 2531,
+      "bars": 2532,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -262,7 +262,7 @@
       "nse_symbol": "NTPC",
       "yahoo_symbol": "NTPC.NS",
       "status": "success",
-      "bars": 2530,
+      "bars": 2531,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -282,7 +282,7 @@
       "nse_symbol": "BAJAJ-AUTO",
       "yahoo_symbol": "BAJAJ-AUTO.NS",
       "status": "success",
-      "bars": 2532,
+      "bars": 2533,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -302,7 +302,7 @@
       "nse_symbol": "BEL",
       "yahoo_symbol": "BEL.NS",
       "status": "success",
-      "bars": 2531,
+      "bars": 2532,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -322,7 +322,7 @@
       "nse_symbol": "DIVISLAB",
       "yahoo_symbol": "DIVISLAB.NS",
       "status": "success",
-      "bars": 2532,
+      "bars": 2533,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -332,7 +332,7 @@
       "nse_symbol": "POWERGRID",
       "yahoo_symbol": "POWERGRID.NS",
       "status": "success",
-      "bars": 2534,
+      "bars": 2533,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -352,7 +352,7 @@
       "nse_symbol": "NESTLEIND",
       "yahoo_symbol": "NESTLEIND.NS",
       "status": "success",
-      "bars": 2531,
+      "bars": 2532,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -372,7 +372,7 @@
       "nse_symbol": "ADANIGREEN",
       "yahoo_symbol": "ADANIGREEN.NS",
       "status": "success",
-      "bars": 2529,
+      "bars": 2530,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -402,7 +402,7 @@
       "nse_symbol": "DMART",
       "yahoo_symbol": "DMART.NS",
       "status": "success",
-      "bars": 2530,
+      "bars": 2531,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -452,7 +452,7 @@
       "nse_symbol": "WIPRO",
       "yahoo_symbol": "WIPRO.NS",
       "status": "success",
-      "bars": 2533,
+      "bars": 2534,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -482,7 +482,7 @@
       "nse_symbol": "TECHM",
       "yahoo_symbol": "TECHM.NS",
       "status": "success",
-      "bars": 2533,
+      "bars": 2534,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -492,7 +492,7 @@
       "nse_symbol": "TORNTPHARM",
       "yahoo_symbol": "TORNTPHARM.NS",
       "status": "success",
-      "bars": 2528,
+      "bars": 2529,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -502,7 +502,7 @@
       "nse_symbol": "DLF",
       "yahoo_symbol": "DLF.NS",
       "status": "success",
-      "bars": 2530,
+      "bars": 2531,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -512,7 +512,7 @@
       "nse_symbol": "SOLARINDS",
       "yahoo_symbol": "SOLARINDS.NS",
       "status": "success",
-      "bars": 2531,
+      "bars": 2532,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -542,7 +542,7 @@
       "nse_symbol": "ADANIENSOL",
       "yahoo_symbol": "ADANIENSOL.NS",
       "status": "success",
-      "bars": 2532,
+      "bars": 2533,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -582,7 +582,7 @@
       "nse_symbol": "TMCV",
       "yahoo_symbol": "TMCV.NS",
       "status": "success",
-      "bars": 2625,
+      "bars": 2626,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -592,7 +592,7 @@
       "nse_symbol": "BSE",
       "yahoo_symbol": "BSE.NS",
       "status": "success",
-      "bars": 2532,
+      "bars": 2533,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -612,7 +612,7 @@
       "nse_symbol": "PNB",
       "yahoo_symbol": "PNB.NS",
       "status": "success",
-      "bars": 2533,
+      "bars": 2532,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -622,7 +622,7 @@
       "nse_symbol": "VAML",
       "yahoo_symbol": "VAML.NS",
       "status": "success",
-      "bars": 2625,
+      "bars": 2626,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -632,7 +632,7 @@
       "nse_symbol": "BOSCHLTD",
       "yahoo_symbol": "BOSCHLTD.NS",
       "status": "success",
-      "bars": 2439,
+      "bars": 2441,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -652,7 +652,7 @@
       "nse_symbol": "TATACAP",
       "yahoo_symbol": "TATACAP.NS",
       "status": "success",
-      "bars": 2625,
+      "bars": 2626,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -682,7 +682,7 @@
       "nse_symbol": "BHEL",
       "yahoo_symbol": "BHEL.NS",
       "status": "success",
-      "bars": 2532,
+      "bars": 2533,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -702,7 +702,7 @@
       "nse_symbol": "VBL",
       "yahoo_symbol": "VBL.NS",
       "status": "success",
-      "bars": 2531,
+      "bars": 2530,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -752,7 +752,7 @@
       "nse_symbol": "BPCL",
       "yahoo_symbol": "BPCL.NS",
       "status": "success",
-      "bars": 2532,
+      "bars": 2533,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -772,7 +772,7 @@
       "nse_symbol": "BANKBARODA",
       "yahoo_symbol": "BANKBARODA.NS",
       "status": "success",
-      "bars": 2533,
+      "bars": 2534,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -782,7 +782,7 @@
       "nse_symbol": "APOLLOHOSP",
       "yahoo_symbol": "APOLLOHOSP.NS",
       "status": "success",
-      "bars": 2531,
+      "bars": 2532,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -792,7 +792,7 @@
       "nse_symbol": "POWERINDIA",
       "yahoo_symbol": "POWERINDIA.NS",
       "status": "success",
-      "bars": 2530,
+      "bars": 2529,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -832,7 +832,7 @@
       "nse_symbol": "POLYCAB",
       "yahoo_symbol": "POLYCAB.NS",
       "status": "success",
-      "bars": 2531,
+      "bars": 2530,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -872,7 +872,7 @@
       "nse_symbol": "BAJAJHLDNG",
       "yahoo_symbol": "BAJAJHLDNG.NS",
       "status": "success",
-      "bars": 2425,
+      "bars": 2426,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -882,7 +882,7 @@
       "nse_symbol": "DRREDDY",
       "yahoo_symbol": "DRREDDY.NS",
       "status": "success",
-      "bars": 2531,
+      "bars": 2532,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -902,7 +902,7 @@
       "nse_symbol": "BRITANNIA",
       "yahoo_symbol": "BRITANNIA.NS",
       "status": "success",
-      "bars": 2529,
+      "bars": 2530,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -922,7 +922,7 @@
       "nse_symbol": "GAIL",
       "yahoo_symbol": "GAIL.NS",
       "status": "success",
-      "bars": 2531,
+      "bars": 2532,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -932,7 +932,7 @@
       "nse_symbol": "TATAPOWER",
       "yahoo_symbol": "TATAPOWER.NS",
       "status": "success",
-      "bars": 2529,
+      "bars": 2530,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -942,7 +942,7 @@
       "nse_symbol": "JINDALSTEL",
       "yahoo_symbol": "JINDALSTEL.NS",
       "status": "success",
-      "bars": 2519,
+      "bars": 2520,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -962,7 +962,7 @@
       "nse_symbol": "PAYTM",
       "yahoo_symbol": "PAYTM.NS",
       "status": "success",
-      "bars": 2532,
+      "bars": 2531,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -992,7 +992,7 @@
       "nse_symbol": "PFC",
       "yahoo_symbol": "PFC.NS",
       "status": "success",
-      "bars": 2532,
+      "bars": 2531,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -1042,7 +1042,7 @@
       "nse_symbol": "TATACONSUM",
       "yahoo_symbol": "TATACONSUM.NS",
       "status": "success",
-      "bars": 2532,
+      "bars": 2533,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -1062,7 +1062,7 @@
       "nse_symbol": "PERSISTENT",
       "yahoo_symbol": "PERSISTENT.NS",
       "status": "success",
-      "bars": 2531,
+      "bars": 2530,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -1072,7 +1072,7 @@
       "nse_symbol": "NYKAA",
       "yahoo_symbol": "NYKAA.NS",
       "status": "success",
-      "bars": 2532,
+      "bars": 2533,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -1112,7 +1112,7 @@
       "nse_symbol": "TMPV",
       "yahoo_symbol": "TMPV.NS",
       "status": "success",
-      "bars": 2530,
+      "bars": 2531,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -1132,7 +1132,7 @@
       "nse_symbol": "AUROPHARMA",
       "yahoo_symbol": "AUROPHARMA.NS",
       "status": "success",
-      "bars": 2532,
+      "bars": 2533,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -1162,7 +1162,7 @@
       "nse_symbol": "SBIFUNDS",
       "yahoo_symbol": "SBIFUNDS.NS",
       "status": "success",
-      "bars": 2625,
+      "bars": 2626,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -1172,7 +1172,7 @@
       "nse_symbol": "VEDL",
       "yahoo_symbol": "VEDL.NS",
       "status": "success",
-      "bars": 2531,
+      "bars": 2532,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -1182,7 +1182,7 @@
       "nse_symbol": "GMRAIRPORT",
       "yahoo_symbol": "GMRAIRPORT.NS",
       "status": "success",
-      "bars": 2529,
+      "bars": 2530,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -1262,7 +1262,7 @@
       "nse_symbol": "ASHOKLEY",
       "yahoo_symbol": "ASHOKLEY.NS",
       "status": "success",
-      "bars": 2530,
+      "bars": 2531,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -1282,7 +1282,7 @@
       "nse_symbol": "FEDERALBNK",
       "yahoo_symbol": "FEDERALBNK.NS",
       "status": "success",
-      "bars": 2530,
+      "bars": 2531,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -1292,7 +1292,7 @@
       "nse_symbol": "GODREJCP",
       "yahoo_symbol": "GODREJCP.NS",
       "status": "success",
-      "bars": 2528,
+      "bars": 2529,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -1312,7 +1312,7 @@
       "nse_symbol": "SHREECEM",
       "yahoo_symbol": "SHREECEM.NS",
       "status": "success",
-      "bars": 2313,
+      "bars": 2314,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -1322,7 +1322,7 @@
       "nse_symbol": "BHARTIHEXA",
       "yahoo_symbol": "BHARTIHEXA.NS",
       "status": "success",
-      "bars": 2595,
+      "bars": 2596,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -1352,7 +1352,7 @@
       "nse_symbol": "NHPC",
       "yahoo_symbol": "NHPC.NS",
       "status": "success",
-      "bars": 2532,
+      "bars": 2533,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -1362,7 +1362,7 @@
       "nse_symbol": "NAUKRI",
       "yahoo_symbol": "NAUKRI.NS",
       "status": "success",
-      "bars": 2530,
+      "bars": 2531,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -1372,7 +1372,7 @@
       "nse_symbol": "RECLTD",
       "yahoo_symbol": "RECLTD.NS",
       "status": "success",
-      "bars": 2530,
+      "bars": 2531,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -1412,7 +1412,7 @@
       "nse_symbol": "PHOENIXLTD",
       "yahoo_symbol": "PHOENIXLTD.NS",
       "status": "success",
-      "bars": 2531,
+      "bars": 2530,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -1462,7 +1462,7 @@
       "nse_symbol": "SAIL",
       "yahoo_symbol": "SAIL.NS",
       "status": "success",
-      "bars": 2532,
+      "bars": 2533,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -1472,7 +1472,7 @@
       "nse_symbol": "WAAREEENER",
       "yahoo_symbol": "WAAREEENER.NS",
       "status": "success",
-      "bars": 2531,
+      "bars": 2532,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -1482,7 +1482,7 @@
       "nse_symbol": "APARINDS",
       "yahoo_symbol": "APARINDS.NS",
       "status": "success",
-      "bars": 2624,
+      "bars": 2625,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -1512,7 +1512,7 @@
       "nse_symbol": "GLENMARK",
       "yahoo_symbol": "GLENMARK.NS",
       "status": "success",
-      "bars": 2531,
+      "bars": 2532,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -1522,7 +1522,7 @@
       "nse_symbol": "DABUR",
       "yahoo_symbol": "DABUR.NS",
       "status": "success",
-      "bars": 2530,
+      "bars": 2531,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -1532,7 +1532,7 @@
       "nse_symbol": "BAJAJHFL",
       "yahoo_symbol": "BAJAJHFL.NS",
       "status": "success",
-      "bars": 2624,
+      "bars": 2625,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -1552,7 +1552,7 @@
       "nse_symbol": "PRESTIGE",
       "yahoo_symbol": "PRESTIGE.NS",
       "status": "success",
-      "bars": 2518,
+      "bars": 2517,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -1592,7 +1592,7 @@
       "nse_symbol": "WELCORP",
       "yahoo_symbol": "WELCORP.NS",
       "status": "success",
-      "bars": 2625,
+      "bars": 2626,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -1612,7 +1612,7 @@
       "nse_symbol": "ALKEM",
       "yahoo_symbol": "ALKEM.NS",
       "status": "success",
-      "bars": 2477,
+      "bars": 2479,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -1622,7 +1622,7 @@
       "nse_symbol": "BANKINDIA",
       "yahoo_symbol": "BANKINDIA.NS",
       "status": "success",
-      "bars": 2533,
+      "bars": 2534,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -1632,7 +1632,7 @@
       "nse_symbol": "APLAPOLLO",
       "yahoo_symbol": "APLAPOLLO.NS",
       "status": "success",
-      "bars": 2527,
+      "bars": 2528,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -1642,7 +1642,7 @@
       "nse_symbol": "OBEROIRLTY",
       "yahoo_symbol": "OBEROIRLTY.NS",
       "status": "success",
-      "bars": 2531,
+      "bars": 2530,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -1652,7 +1652,7 @@
       "nse_symbol": "ASTERDM",
       "yahoo_symbol": "ASTERDM.NS",
       "status": "success",
-      "bars": 2618,
+      "bars": 2619,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -1662,7 +1662,7 @@
       "nse_symbol": "NMDC",
       "yahoo_symbol": "NMDC.NS",
       "status": "success",
-      "bars": 2532,
+      "bars": 2533,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -1672,7 +1672,7 @@
       "nse_symbol": "TORNTPOWER",
       "yahoo_symbol": "TORNTPOWER.NS",
       "status": "success",
-      "bars": 2619,
+      "bars": 2620,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -1682,7 +1682,7 @@
       "nse_symbol": "ATGL",
       "yahoo_symbol": "ATGL.NS",
       "status": "success",
-      "bars": 2622,
+      "bars": 2623,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -1692,7 +1692,7 @@
       "nse_symbol": "FORTIS",
       "yahoo_symbol": "FORTIS.NS",
       "status": "success",
-      "bars": 2531,
+      "bars": 2532,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -1722,7 +1722,7 @@
       "nse_symbol": "NATIONALUM",
       "yahoo_symbol": "NATIONALUM.NS",
       "status": "success",
-      "bars": 2530,
+      "bars": 2531,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -1732,7 +1732,7 @@
       "nse_symbol": "BIOCON",
       "yahoo_symbol": "BIOCON.NS",
       "status": "success",
-      "bars": 2531,
+      "bars": 2532,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -1752,7 +1752,7 @@
       "nse_symbol": "SCHAEFFLER",
       "yahoo_symbol": "SCHAEFFLER.NS",
       "status": "success",
-      "bars": 2603,
+      "bars": 2602,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -1782,7 +1782,7 @@
       "nse_symbol": "IOB",
       "yahoo_symbol": "IOB.NS",
       "status": "success",
-      "bars": 2621,
+      "bars": 2622,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -1802,7 +1802,7 @@
       "nse_symbol": "GICRE",
       "yahoo_symbol": "GICRE.NS",
       "status": "success",
-      "bars": 2609,
+      "bars": 2610,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -1812,7 +1812,7 @@
       "nse_symbol": "RBLBANK",
       "yahoo_symbol": "RBLBANK.NS",
       "status": "success",
-      "bars": 2530,
+      "bars": 2531,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -1822,7 +1822,7 @@
       "nse_symbol": "ABBOTINDIA",
       "yahoo_symbol": "ABBOTINDIA.NS",
       "status": "success",
-      "bars": 2119,
+      "bars": 2120,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -1832,7 +1832,7 @@
       "nse_symbol": "BERGEPAINT",
       "yahoo_symbol": "BERGEPAINT.NS",
       "status": "success",
-      "bars": 2618,
+      "bars": 2620,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -1852,7 +1852,7 @@
       "nse_symbol": "GLAND",
       "yahoo_symbol": "GLAND.NS",
       "status": "success",
-      "bars": 2624,
+      "bars": 2625,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -1872,7 +1872,7 @@
       "nse_symbol": "SBICARD",
       "yahoo_symbol": "SBICARD.NS",
       "status": "success",
-      "bars": 2529,
+      "bars": 2530,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -1882,7 +1882,7 @@
       "nse_symbol": "MRF",
       "yahoo_symbol": "MRF.NS",
       "status": "success",
-      "bars": 2081,
+      "bars": 2080,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -1912,7 +1912,7 @@
       "nse_symbol": "LINDEINDIA",
       "yahoo_symbol": "LINDEINDIA.NS",
       "status": "success",
-      "bars": 2178,
+      "bars": 2177,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -1942,7 +1942,7 @@
       "nse_symbol": "GODREJPROP",
       "yahoo_symbol": "GODREJPROP.NS",
       "status": "success",
-      "bars": 2532,
+      "bars": 2533,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -1962,7 +1962,7 @@
       "nse_symbol": "ANTHEM",
       "yahoo_symbol": "ANTHEM.NS",
       "status": "success",
-      "bars": 2543,
+      "bars": 2544,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -1982,7 +1982,7 @@
       "nse_symbol": "POLICYBZR",
       "yahoo_symbol": "POLICYBZR.NS",
       "status": "success",
-      "bars": 2534,
+      "bars": 2533,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -2012,7 +2012,7 @@
       "nse_symbol": "NAVINFLUOR",
       "yahoo_symbol": "NAVINFLUOR.NS",
       "status": "success",
-      "bars": 2585,
+      "bars": 2586,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -2022,7 +2022,7 @@
       "nse_symbol": "AJANTPHARM",
       "yahoo_symbol": "AJANTPHARM.NS",
       "status": "success",
-      "bars": 2590,
+      "bars": 2592,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -2032,7 +2032,7 @@
       "nse_symbol": "SUNDARMFIN",
       "yahoo_symbol": "SUNDARMFIN.NS",
       "status": "success",
-      "bars": 2535,
+      "bars": 2536,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -2052,7 +2052,7 @@
       "nse_symbol": "PETRONET",
       "yahoo_symbol": "PETRONET.NS",
       "status": "success",
-      "bars": 2533,
+      "bars": 2532,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -2082,7 +2082,7 @@
       "nse_symbol": "PIRAMALFIN",
       "yahoo_symbol": "PIRAMALFIN.NS",
       "status": "success",
-      "bars": 2603,
+      "bars": 2602,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -2092,7 +2092,7 @@
       "nse_symbol": "GLAXO",
       "yahoo_symbol": "GLAXO.NS",
       "status": "success",
-      "bars": 2477,
+      "bars": 2478,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -2112,7 +2112,7 @@
       "nse_symbol": "AIIL",
       "yahoo_symbol": "AIIL.NS",
       "status": "success",
-      "bars": 2333,
+      "bars": 2331,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -2142,7 +2142,7 @@
       "nse_symbol": "TIINDIA",
       "yahoo_symbol": "TIINDIA.NS",
       "status": "success",
-      "bars": 2528,
+      "bars": 2529,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -2152,7 +2152,7 @@
       "nse_symbol": "POONAWALLA",
       "yahoo_symbol": "POONAWALLA.NS",
       "status": "success",
-      "bars": 2609,
+      "bars": 2608,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -2162,7 +2162,7 @@
       "nse_symbol": "BALKRISIND",
       "yahoo_symbol": "BALKRISIND.NS",
       "status": "success",
-      "bars": 2620,
+      "bars": 2621,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -2172,7 +2172,7 @@
       "nse_symbol": "SUPREMEIND",
       "yahoo_symbol": "SUPREMEIND.NS",
       "status": "success",
-      "bars": 2529,
+      "bars": 2530,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -2182,7 +2182,7 @@
       "nse_symbol": "PREMIERENE",
       "yahoo_symbol": "PREMIERENE.NS",
       "status": "success",
-      "bars": 2531,
+      "bars": 2530,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -2192,7 +2192,7 @@
       "nse_symbol": "PATANJALI",
       "yahoo_symbol": "PATANJALI.NS",
       "status": "success",
-      "bars": 2530,
+      "bars": 2529,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -2202,7 +2202,7 @@
       "nse_symbol": "VMM",
       "yahoo_symbol": "VMM.NS",
       "status": "success",
-      "bars": 2530,
+      "bars": 2531,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -2222,7 +2222,7 @@
       "nse_symbol": "AEGISLOG",
       "yahoo_symbol": "AEGISLOG.NS",
       "status": "success",
-      "bars": 2621,
+      "bars": 2623,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -2272,7 +2272,7 @@
       "nse_symbol": "ANANDRATHI",
       "yahoo_symbol": "ANANDRATHI.NS",
       "status": "success",
-      "bars": 2525,
+      "bars": 2526,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -2282,7 +2282,7 @@
       "nse_symbol": "THERMAX",
       "yahoo_symbol": "THERMAX.NS",
       "status": "success",
-      "bars": 2618,
+      "bars": 2619,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -2322,7 +2322,7 @@
       "nse_symbol": "ASTRAL",
       "yahoo_symbol": "ASTRAL.NS",
       "status": "success",
-      "bars": 2531,
+      "bars": 2532,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -2332,7 +2332,7 @@
       "nse_symbol": "BDL",
       "yahoo_symbol": "BDL.NS",
       "status": "success",
-      "bars": 2532,
+      "bars": 2533,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -2352,7 +2352,7 @@
       "nse_symbol": "NH",
       "yahoo_symbol": "NH.NS",
       "status": "success",
-      "bars": 2617,
+      "bars": 2618,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -2392,7 +2392,7 @@
       "nse_symbol": "MEDANTA",
       "yahoo_symbol": "MEDANTA.NS",
       "status": "success",
-      "bars": 2580,
+      "bars": 2579,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -2402,7 +2402,7 @@
       "nse_symbol": "VOLTAS",
       "yahoo_symbol": "VOLTAS.NS",
       "status": "success",
-      "bars": 2529,
+      "bars": 2531,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -2442,7 +2442,7 @@
       "nse_symbol": "CRISIL",
       "yahoo_symbol": "CRISIL.NS",
       "status": "success",
-      "bars": 2510,
+      "bars": 2511,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -2452,7 +2452,7 @@
       "nse_symbol": "ACUTAAS",
       "yahoo_symbol": "ACUTAAS.NS",
       "status": "success",
-      "bars": 2624,
+      "bars": 2625,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -2462,7 +2462,7 @@
       "nse_symbol": "3MINDIA",
       "yahoo_symbol": "3MINDIA.NS",
       "status": "success",
-      "bars": 1683,
+      "bars": 1681,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -2482,7 +2482,7 @@
       "nse_symbol": "NUVAMA",
       "yahoo_symbol": "NUVAMA.NS",
       "status": "success",
-      "bars": 2618,
+      "bars": 2619,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -2522,7 +2522,7 @@
       "nse_symbol": "DHOOTTRANS",
       "yahoo_symbol": "DHOOTTRANS.NS",
       "status": "success",
-      "bars": 2624,
+      "bars": 2626,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -2532,7 +2532,7 @@
       "nse_symbol": "NLCINDIA",
       "yahoo_symbol": "NLCINDIA.NS",
       "status": "success",
-      "bars": 2625,
+      "bars": 2626,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -2552,7 +2552,7 @@
       "nse_symbol": "SYRMA",
       "yahoo_symbol": "SYRMA.NS",
       "status": "success",
-      "bars": 2585,
+      "bars": 2586,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -2562,7 +2562,7 @@
       "nse_symbol": "STARHEALTH",
       "yahoo_symbol": "STARHEALTH.NS",
       "status": "success",
-      "bars": 2532,
+      "bars": 2530,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -2582,7 +2582,7 @@
       "nse_symbol": "WOCKPHARMA",
       "yahoo_symbol": "WOCKPHARMA.NS",
       "status": "success",
-      "bars": 2623,
+      "bars": 2624,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -2602,7 +2602,7 @@
       "nse_symbol": "GODREJIND",
       "yahoo_symbol": "GODREJIND.NS",
       "status": "success",
-      "bars": 2030,
+      "bars": 2029,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -2632,7 +2632,7 @@
       "nse_symbol": "COCHINSHIP",
       "yahoo_symbol": "COCHINSHIP.NS",
       "status": "success",
-      "bars": 2528,
+      "bars": 2529,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -2642,7 +2642,7 @@
       "nse_symbol": "IKS",
       "yahoo_symbol": "IKS.NS",
       "status": "success",
-      "bars": 2570,
+      "bars": 2571,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -2692,7 +2692,7 @@
       "nse_symbol": "TATAINVEST",
       "yahoo_symbol": "TATAINVEST.NS",
       "status": "success",
-      "bars": 2606,
+      "bars": 2605,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -2702,7 +2702,7 @@
       "nse_symbol": "IREDA",
       "yahoo_symbol": "IREDA.NS",
       "status": "success",
-      "bars": 2531,
+      "bars": 2532,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -2722,7 +2722,7 @@
       "nse_symbol": "UCOBANK",
       "yahoo_symbol": "UCOBANK.NS",
       "status": "success",
-      "bars": 2623,
+      "bars": 2624,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -2732,7 +2732,7 @@
       "nse_symbol": "PNBHOUSING",
       "yahoo_symbol": "PNBHOUSING.NS",
       "status": "success",
-      "bars": 2530,
+      "bars": 2529,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -2772,7 +2772,7 @@
       "nse_symbol": "RUBICON",
       "yahoo_symbol": "RUBICON.NS",
       "status": "success",
-      "bars": 2557,
+      "bars": 2558,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -2792,7 +2792,7 @@
       "nse_symbol": "GODFRYPHLP",
       "yahoo_symbol": "GODFRYPHLP.NS",
       "status": "success",
-      "bars": 2522,
+      "bars": 2523,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -2802,7 +2802,7 @@
       "nse_symbol": "TATATECH",
       "yahoo_symbol": "TATATECH.NS",
       "status": "success",
-      "bars": 2624,
+      "bars": 2625,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -2812,7 +2812,7 @@
       "nse_symbol": "NIACL",
       "yahoo_symbol": "NIACL.NS",
       "status": "success",
-      "bars": 2553,
+      "bars": 2555,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -2832,7 +2832,7 @@
       "nse_symbol": "SCHNEIDER",
       "yahoo_symbol": "SCHNEIDER.NS",
       "status": "success",
-      "bars": 2571,
+      "bars": 2572,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -2842,7 +2842,7 @@
       "nse_symbol": "HONAUT",
       "yahoo_symbol": "HONAUT.NS",
       "status": "success",
-      "bars": 1876,
+      "bars": 1874,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -2862,7 +2862,7 @@
       "nse_symbol": "ANGELONE",
       "yahoo_symbol": "ANGELONE.NS",
       "status": "success",
-      "bars": 2530,
+      "bars": 2531,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -2892,7 +2892,7 @@
       "nse_symbol": "REDINGTON",
       "yahoo_symbol": "REDINGTON.NS",
       "status": "success",
-      "bars": 2624,
+      "bars": 2625,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -2912,7 +2912,7 @@
       "nse_symbol": "NEULANDLAB",
       "yahoo_symbol": "NEULANDLAB.NS",
       "status": "success",
-      "bars": 2575,
+      "bars": 2576,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -2922,7 +2922,7 @@
       "nse_symbol": "GABRIEL",
       "yahoo_symbol": "GABRIEL.NS",
       "status": "success",
-      "bars": 2624,
+      "bars": 2625,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -2932,7 +2932,7 @@
       "nse_symbol": "DALBHARAT",
       "yahoo_symbol": "DALBHARAT.NS",
       "status": "success",
-      "bars": 2577,
+      "bars": 2578,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -2982,7 +2982,7 @@
       "nse_symbol": "GODIGIT",
       "yahoo_symbol": "GODIGIT.NS",
       "status": "success",
-      "bars": 2470,
+      "bars": 2471,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -3002,7 +3002,7 @@
       "nse_symbol": "SUNTV",
       "yahoo_symbol": "SUNTV.NS",
       "status": "success",
-      "bars": 2559,
+      "bars": 2560,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -3012,7 +3012,7 @@
       "nse_symbol": "ZFCVINDIA",
       "yahoo_symbol": "ZFCVINDIA.NS",
       "status": "success",
-      "bars": 2599,
+      "bars": 2598,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -3022,7 +3022,7 @@
       "nse_symbol": "TATAELXSI",
       "yahoo_symbol": "TATAELXSI.NS",
       "status": "success",
-      "bars": 2529,
+      "bars": 2530,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -3042,7 +3042,7 @@
       "nse_symbol": "CEMPRO",
       "yahoo_symbol": "CEMPRO.NS",
       "status": "success",
-      "bars": 2599,
+      "bars": 2600,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -3052,7 +3052,7 @@
       "nse_symbol": "ABSLAMC",
       "yahoo_symbol": "ABSLAMC.NS",
       "status": "success",
-      "bars": 2623,
+      "bars": 2624,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -3082,7 +3082,7 @@
       "nse_symbol": "ASAHIINDIA",
       "yahoo_symbol": "ASAHIINDIA.NS",
       "status": "success",
-      "bars": 2117,
+      "bars": 2114,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -3092,7 +3092,7 @@
       "nse_symbol": "GILLETTE",
       "yahoo_symbol": "GILLETTE.NS",
       "status": "success",
-      "bars": 2251,
+      "bars": 2253,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -3102,7 +3102,7 @@
       "nse_symbol": "TDPOWERSYS",
       "yahoo_symbol": "TDPOWERSYS.NS",
       "status": "success",
-      "bars": 2625,
+      "bars": 2626,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -3112,7 +3112,7 @@
       "nse_symbol": "GRANULES",
       "yahoo_symbol": "GRANULES.NS",
       "status": "success",
-      "bars": 2623,
+      "bars": 2624,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -3142,7 +3142,7 @@
       "nse_symbol": "GESHIP",
       "yahoo_symbol": "GESHIP.NS",
       "status": "success",
-      "bars": 2624,
+      "bars": 2625,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -3192,7 +3192,7 @@
       "nse_symbol": "GRSE",
       "yahoo_symbol": "GRSE.NS",
       "status": "success",
-      "bars": 2624,
+      "bars": 2625,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -3202,7 +3202,7 @@
       "nse_symbol": "PGHH",
       "yahoo_symbol": "PGHH.NS",
       "status": "success",
-      "bars": 2175,
+      "bars": 2174,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -3232,7 +3232,7 @@
       "nse_symbol": "CGCL",
       "yahoo_symbol": "CGCL.NS",
       "status": "success",
-      "bars": 2605,
+      "bars": 2607,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -3242,7 +3242,7 @@
       "nse_symbol": "SUNDRMFAST",
       "yahoo_symbol": "SUNDRMFAST.NS",
       "status": "success",
-      "bars": 2246,
+      "bars": 2248,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -3252,7 +3252,7 @@
       "nse_symbol": "TIMKEN",
       "yahoo_symbol": "TIMKEN.NS",
       "status": "success",
-      "bars": 2381,
+      "bars": 2382,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -3262,7 +3262,7 @@
       "nse_symbol": "AETHER",
       "yahoo_symbol": "AETHER.NS",
       "status": "success",
-      "bars": 2608,
+      "bars": 2609,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -3272,7 +3272,7 @@
       "nse_symbol": "AWL",
       "yahoo_symbol": "AWL.NS",
       "status": "success",
-      "bars": 2623,
+      "bars": 2624,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -3282,7 +3282,7 @@
       "nse_symbol": "DATAPATTNS",
       "yahoo_symbol": "DATAPATTNS.NS",
       "status": "success",
-      "bars": 2583,
+      "bars": 2584,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -3302,7 +3302,7 @@
       "nse_symbol": "ACC",
       "yahoo_symbol": "ACC.NS",
       "status": "success",
-      "bars": 2592,
+      "bars": 2593,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -3332,7 +3332,7 @@
       "nse_symbol": "SJVN",
       "yahoo_symbol": "SJVN.NS",
       "status": "success",
-      "bars": 2625,
+      "bars": 2626,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -3342,7 +3342,7 @@
       "nse_symbol": "GRINDWELL",
       "yahoo_symbol": "GRINDWELL.NS",
       "status": "success",
-      "bars": 2342,
+      "bars": 2343,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -3362,7 +3362,7 @@
       "nse_symbol": "FSL",
       "yahoo_symbol": "FSL.NS",
       "status": "success",
-      "bars": 2622,
+      "bars": 2623,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -3382,7 +3382,7 @@
       "nse_symbol": "AMBER",
       "yahoo_symbol": "AMBER.NS",
       "status": "success",
-      "bars": 2513,
+      "bars": 2512,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -3422,7 +3422,7 @@
       "nse_symbol": "BELRISE",
       "yahoo_symbol": "BELRISE.NS",
       "status": "success",
-      "bars": 2624,
+      "bars": 2625,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -3432,7 +3432,7 @@
       "nse_symbol": "KIOCL",
       "yahoo_symbol": "KIOCL.NS",
       "status": "success",
-      "bars": 1464,
+      "bars": 1465,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -3442,7 +3442,7 @@
       "nse_symbol": "SAGILITY",
       "yahoo_symbol": "SAGILITY.NS",
       "status": "success",
-      "bars": 2532,
+      "bars": 2533,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -3462,7 +3462,7 @@
       "nse_symbol": "ABDL",
       "yahoo_symbol": "ABDL.NS",
       "status": "success",
-      "bars": 2586,
+      "bars": 2587,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -3472,7 +3472,7 @@
       "nse_symbol": "GUJENERGY",
       "yahoo_symbol": "GUJENERGY.NS",
       "status": "success",
-      "bars": 2624,
+      "bars": 2625,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -3512,7 +3512,7 @@
       "nse_symbol": "NBCC",
       "yahoo_symbol": "NBCC.NS",
       "status": "success",
-      "bars": 2531,
+      "bars": 2532,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -3522,7 +3522,7 @@
       "nse_symbol": "SHILPAMED",
       "yahoo_symbol": "SHILPAMED.NS",
       "status": "success",
-      "bars": 2625,
+      "bars": 2626,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -3552,7 +3552,7 @@
       "nse_symbol": "EIHOTEL",
       "yahoo_symbol": "EIHOTEL.NS",
       "status": "success",
-      "bars": 1979,
+      "bars": 1980,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -3562,7 +3562,7 @@
       "nse_symbol": "PINELABS",
       "yahoo_symbol": "PINELABS.NS",
       "status": "success",
-      "bars": 2626,
+      "bars": 2625,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -3572,7 +3572,7 @@
       "nse_symbol": "CAPLIPOINT",
       "yahoo_symbol": "CAPLIPOINT.NS",
       "status": "success",
-      "bars": 2500,
+      "bars": 2501,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -3622,7 +3622,7 @@
       "nse_symbol": "ALIVUS",
       "yahoo_symbol": "ALIVUS.NS",
       "status": "success",
-      "bars": 2316,
+      "bars": 2317,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -3652,7 +3652,7 @@
       "nse_symbol": "RAMCOCEM",
       "yahoo_symbol": "RAMCOCEM.NS",
       "status": "success",
-      "bars": 2464,
+      "bars": 2465,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -3692,7 +3692,7 @@
       "nse_symbol": "PFIZER",
       "yahoo_symbol": "PFIZER.NS",
       "status": "success",
-      "bars": 2155,
+      "bars": 2153,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -3712,7 +3712,7 @@
       "nse_symbol": "BEML",
       "yahoo_symbol": "BEML.NS",
       "status": "success",
-      "bars": 2597,
+      "bars": 2598,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -3732,7 +3732,7 @@
       "nse_symbol": "HAPPYFORGE",
       "yahoo_symbol": "HAPPYFORGE.NS",
       "status": "success",
-      "bars": 2566,
+      "bars": 2565,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -3772,7 +3772,7 @@
       "nse_symbol": "SYNGENE",
       "yahoo_symbol": "SYNGENE.NS",
       "status": "success",
-      "bars": 2624,
+      "bars": 2625,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -3792,7 +3792,7 @@
       "nse_symbol": "GRWRHITECH",
       "yahoo_symbol": "GRWRHITECH.NS",
       "status": "success",
-      "bars": 2491,
+      "bars": 2492,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -3802,7 +3802,7 @@
       "nse_symbol": "AGARWALEYE",
       "yahoo_symbol": "AGARWALEYE.NS",
       "status": "success",
-      "bars": 2083,
+      "bars": 2084,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -3812,7 +3812,7 @@
       "nse_symbol": "ELGIEQUIP",
       "yahoo_symbol": "ELGIEQUIP.NS",
       "status": "success",
-      "bars": 2548,
+      "bars": 2549,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -3832,7 +3832,7 @@
       "nse_symbol": "CHOICEIN",
       "yahoo_symbol": "CHOICEIN.NS",
       "status": "success",
-      "bars": 2155,
+      "bars": 2156,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -3842,7 +3842,7 @@
       "nse_symbol": "ERIS",
       "yahoo_symbol": "ERIS.NS",
       "status": "success",
-      "bars": 2149,
+      "bars": 2150,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -3882,7 +3882,7 @@
       "nse_symbol": "AARTIIND",
       "yahoo_symbol": "AARTIIND.NS",
       "status": "success",
-      "bars": 2615,
+      "bars": 2617,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -3892,7 +3892,7 @@
       "nse_symbol": "AZAD",
       "yahoo_symbol": "AZAD.NS",
       "status": "success",
-      "bars": 2623,
+      "bars": 2624,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -3912,7 +3912,7 @@
       "nse_symbol": "SUMICHEM",
       "yahoo_symbol": "SUMICHEM.NS",
       "status": "success",
-      "bars": 2567,
+      "bars": 2568,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -3952,7 +3952,7 @@
       "nse_symbol": "FINEORG",
       "yahoo_symbol": "FINEORG.NS",
       "status": "success",
-      "bars": 1973,
+      "bars": 1972,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -3962,7 +3962,7 @@
       "nse_symbol": "NATCOPHARM",
       "yahoo_symbol": "NATCOPHARM.NS",
       "status": "success",
-      "bars": 2624,
+      "bars": 2626,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -3972,7 +3972,7 @@
       "nse_symbol": "PGEL",
       "yahoo_symbol": "PGEL.NS",
       "status": "success",
-      "bars": 2529,
+      "bars": 2528,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -3982,7 +3982,7 @@
       "nse_symbol": "PCJEWELLER",
       "yahoo_symbol": "PCJEWELLER.NS",
       "status": "success",
-      "bars": 2625,
+      "bars": 2624,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -4022,7 +4022,7 @@
       "nse_symbol": "TRITURBINE",
       "yahoo_symbol": "TRITURBINE.NS",
       "status": "success",
-      "bars": 2625,
+      "bars": 2626,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -4032,7 +4032,7 @@
       "nse_symbol": "VIJAYA",
       "yahoo_symbol": "VIJAYA.NS",
       "status": "success",
-      "bars": 2486,
+      "bars": 2485,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -4052,7 +4052,7 @@
       "nse_symbol": "ATUL",
       "yahoo_symbol": "ATUL.NS",
       "status": "success",
-      "bars": 2581,
+      "bars": 2583,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -4072,7 +4072,7 @@
       "nse_symbol": "ZYDUSWELL",
       "yahoo_symbol": "ZYDUSWELL.NS",
       "status": "success",
-      "bars": 2206,
+      "bars": 2207,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -4082,7 +4082,7 @@
       "nse_symbol": "JUBLPHARMA",
       "yahoo_symbol": "JUBLPHARMA.NS",
       "status": "success",
-      "bars": 2410,
+      "bars": 2409,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -4132,7 +4132,7 @@
       "nse_symbol": "ECLERX",
       "yahoo_symbol": "ECLERX.NS",
       "status": "success",
-      "bars": 2594,
+      "bars": 2595,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -4192,7 +4192,7 @@
       "nse_symbol": "SOUTHBANK",
       "yahoo_symbol": "SOUTHBANK.NS",
       "status": "success",
-      "bars": 2625,
+      "bars": 2626,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -4232,7 +4232,7 @@
       "nse_symbol": "ZENTEC",
       "yahoo_symbol": "ZENTEC.NS",
       "status": "success",
-      "bars": 2601,
+      "bars": 2600,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -4252,7 +4252,7 @@
       "nse_symbol": "GRAPHITE",
       "yahoo_symbol": "GRAPHITE.NS",
       "status": "success",
-      "bars": 2583,
+      "bars": 2582,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -4262,7 +4262,7 @@
       "nse_symbol": "CHAMBLFERT",
       "yahoo_symbol": "CHAMBLFERT.NS",
       "status": "success",
-      "bars": 2585,
+      "bars": 2584,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -4282,7 +4282,7 @@
       "nse_symbol": "BBOX",
       "yahoo_symbol": "BBOX.NS",
       "status": "success",
-      "bars": 2613,
+      "bars": 2614,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -4292,7 +4292,7 @@
       "nse_symbol": "INDGN",
       "yahoo_symbol": "INDGN.NS",
       "status": "success",
-      "bars": 2510,
+      "bars": 2511,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -4302,7 +4302,7 @@
       "nse_symbol": "CENTURYPLY",
       "yahoo_symbol": "CENTURYPLY.NS",
       "status": "success",
-      "bars": 1931,
+      "bars": 1932,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -4312,7 +4312,7 @@
       "nse_symbol": "VTL",
       "yahoo_symbol": "VTL.NS",
       "status": "success",
-      "bars": 2423,
+      "bars": 2421,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -4332,7 +4332,7 @@
       "nse_symbol": "DEEPAKFERT",
       "yahoo_symbol": "DEEPAKFERT.NS",
       "status": "success",
-      "bars": 2601,
+      "bars": 2603,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -4352,7 +4352,7 @@
       "nse_symbol": "THANGAMAYL",
       "yahoo_symbol": "THANGAMAYL.NS",
       "status": "success",
-      "bars": 2521,
+      "bars": 2522,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -4362,7 +4362,7 @@
       "nse_symbol": "BHARATCOAL",
       "yahoo_symbol": "BHARATCOAL.NS",
       "status": "success",
-      "bars": 2624,
+      "bars": 2625,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -4372,7 +4372,7 @@
       "nse_symbol": "SEDEMAC",
       "yahoo_symbol": "SEDEMAC.NS",
       "status": "success",
-      "bars": 2498,
+      "bars": 2497,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -4392,7 +4392,7 @@
       "nse_symbol": "SHREEJISPG",
       "yahoo_symbol": "SHREEJISPG.NS",
       "status": "success",
-      "bars": 2444,
+      "bars": 2445,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -4422,7 +4422,7 @@
       "nse_symbol": "DCMSHRIRAM",
       "yahoo_symbol": "DCMSHRIRAM.NS",
       "status": "success",
-      "bars": 2261,
+      "bars": 2263,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -4432,7 +4432,7 @@
       "nse_symbol": "ESDS",
       "yahoo_symbol": "ESDS.NS",
       "status": "success",
-      "bars": 2596,
+      "bars": 2597,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -4442,7 +4442,7 @@
       "nse_symbol": "USHAMART",
       "yahoo_symbol": "USHAMART.NS",
       "status": "success",
-      "bars": 2513,
+      "bars": 2514,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -4452,7 +4452,7 @@
       "nse_symbol": "GALLANTT",
       "yahoo_symbol": "GALLANTT.NS",
       "status": "success",
-      "bars": 2524,
+      "bars": 2526,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -4472,7 +4472,7 @@
       "nse_symbol": "PARADEEP",
       "yahoo_symbol": "PARADEEP.NS",
       "status": "success",
-      "bars": 2614,
+      "bars": 2613,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -4482,7 +4482,7 @@
       "nse_symbol": "CIEINDIA",
       "yahoo_symbol": "CIEINDIA.NS",
       "status": "success",
-      "bars": 2515,
+      "bars": 2514,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -4492,7 +4492,7 @@
       "nse_symbol": "ARVIND",
       "yahoo_symbol": "ARVIND.NS",
       "status": "success",
-      "bars": 2619,
+      "bars": 2620,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -4512,7 +4512,7 @@
       "nse_symbol": "PSB",
       "yahoo_symbol": "PSB.NS",
       "status": "success",
-      "bars": 2513,
+      "bars": 2512,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -4522,7 +4522,7 @@
       "nse_symbol": "BASF",
       "yahoo_symbol": "BASF.NS",
       "status": "success",
-      "bars": 2127,
+      "bars": 2128,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -4542,7 +4542,7 @@
       "nse_symbol": "CORONA",
       "yahoo_symbol": "CORONA.NS",
       "status": "success",
-      "bars": 2053,
+      "bars": 2054,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -4552,7 +4552,7 @@
       "nse_symbol": "GMDCLTD",
       "yahoo_symbol": "GMDCLTD.NS",
       "status": "success",
-      "bars": 2619,
+      "bars": 2620,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -4562,7 +4562,7 @@
       "nse_symbol": "FRACTAL",
       "yahoo_symbol": "FRACTAL.NS",
       "status": "success",
-      "bars": 2472,
+      "bars": 2469,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -4572,7 +4572,7 @@
       "nse_symbol": "CONCORDBIO",
       "yahoo_symbol": "CONCORDBIO.NS",
       "status": "success",
-      "bars": 2595,
+      "bars": 2594,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -4582,7 +4582,7 @@
       "nse_symbol": "ANURAS",
       "yahoo_symbol": "ANURAS.NS",
       "status": "success",
-      "bars": 2381,
+      "bars": 2379,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -4652,7 +4652,7 @@
       "nse_symbol": "TEGA",
       "yahoo_symbol": "TEGA.NS",
       "status": "success",
-      "bars": 2509,
+      "bars": 2511,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -4682,7 +4682,7 @@
       "nse_symbol": "TMB",
       "yahoo_symbol": "TMB.NS",
       "status": "success",
-      "bars": 2539,
+      "bars": 2538,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -4702,7 +4702,7 @@
       "nse_symbol": "ARE&M",
       "yahoo_symbol": "ARE&M.NS",
       "status": "success",
-      "bars": 2625,
+      "bars": 2626,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -4712,7 +4712,7 @@
       "nse_symbol": "PRIVISCL",
       "yahoo_symbol": "PRIVISCL.NS",
       "status": "success",
-      "bars": 2420,
+      "bars": 2418,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -4722,7 +4722,7 @@
       "nse_symbol": "CEATLTD",
       "yahoo_symbol": "CEATLTD.NS",
       "status": "success",
-      "bars": 2436,
+      "bars": 2434,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -4732,7 +4732,7 @@
       "nse_symbol": "BALRAMCHIN",
       "yahoo_symbol": "BALRAMCHIN.NS",
       "status": "success",
-      "bars": 2614,
+      "bars": 2616,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -4752,7 +4752,7 @@
       "nse_symbol": "VENTIVE",
       "yahoo_symbol": "VENTIVE.NS",
       "status": "success",
-      "bars": 1094,
+      "bars": 1096,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -4762,7 +4762,7 @@
       "nse_symbol": "RAINBOW",
       "yahoo_symbol": "RAINBOW.NS",
       "status": "success",
-      "bars": 2590,
+      "bars": 2591,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -4812,7 +4812,7 @@
       "nse_symbol": "JSWHL",
       "yahoo_symbol": "JSWHL.NS",
       "status": "success",
-      "bars": 1211,
+      "bars": 1212,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -4822,7 +4822,7 @@
       "nse_symbol": "SUDEEPPHRM",
       "yahoo_symbol": "SUDEEPPHRM.NS",
       "status": "success",
-      "bars": 2530,
+      "bars": 2531,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -4842,7 +4842,7 @@
       "nse_symbol": "SOBHA",
       "yahoo_symbol": "SOBHA.NS",
       "status": "success",
-      "bars": 2407,
+      "bars": 2408,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -4852,7 +4852,7 @@
       "nse_symbol": "RKFORGE",
       "yahoo_symbol": "RKFORGE.NS",
       "status": "success",
-      "bars": 2592,
+      "bars": 2593,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -4862,7 +4862,7 @@
       "nse_symbol": "TI",
       "yahoo_symbol": "TI.NS",
       "status": "success",
-      "bars": 2614,
+      "bars": 2615,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -4872,7 +4872,7 @@
       "nse_symbol": "AMAGI",
       "yahoo_symbol": "AMAGI.NS",
       "status": "success",
-      "bars": 2234,
+      "bars": 2232,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -4892,7 +4892,7 @@
       "nse_symbol": "FIVESTAR",
       "yahoo_symbol": "FIVESTAR.NS",
       "status": "success",
-      "bars": 2619,
+      "bars": 2618,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -4902,7 +4902,7 @@
       "nse_symbol": "SKFINDUS",
       "yahoo_symbol": "SKFINDUS.NS",
       "status": "success",
-      "bars": 1716,
+      "bars": 1715,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -4922,7 +4922,7 @@
       "nse_symbol": "PRUDENT",
       "yahoo_symbol": "PRUDENT.NS",
       "status": "success",
-      "bars": 2487,
+      "bars": 2486,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -4952,7 +4952,7 @@
       "nse_symbol": "AKUMS",
       "yahoo_symbol": "AKUMS.NS",
       "status": "success",
-      "bars": 2453,
+      "bars": 2454,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -4962,7 +4962,7 @@
       "nse_symbol": "EDELWEISS",
       "yahoo_symbol": "EDELWEISS.NS",
       "status": "success",
-      "bars": 2624,
+      "bars": 2625,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -5002,7 +5002,7 @@
       "nse_symbol": "KSB",
       "yahoo_symbol": "KSB.NS",
       "status": "success",
-      "bars": 2374,
+      "bars": 2375,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -5022,7 +5022,7 @@
       "nse_symbol": "METROPOLIS",
       "yahoo_symbol": "METROPOLIS.NS",
       "status": "success",
-      "bars": 2415,
+      "bars": 2414,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -5032,7 +5032,7 @@
       "nse_symbol": "BIKAJI",
       "yahoo_symbol": "BIKAJI.NS",
       "status": "success",
-      "bars": 2484,
+      "bars": 2485,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -5062,7 +5062,7 @@
       "nse_symbol": "HOMEFIRST",
       "yahoo_symbol": "HOMEFIRST.NS",
       "status": "success",
-      "bars": 2554,
+      "bars": 2553,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -5082,7 +5082,7 @@
       "nse_symbol": "DOMS",
       "yahoo_symbol": "DOMS.NS",
       "status": "success",
-      "bars": 2296,
+      "bars": 2295,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -5102,7 +5102,7 @@
       "nse_symbol": "NSLNISP",
       "yahoo_symbol": "NSLNISP.NS",
       "status": "success",
-      "bars": 2547,
+      "bars": 2548,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -5112,7 +5112,7 @@
       "nse_symbol": "PGIL",
       "yahoo_symbol": "PGIL.NS",
       "status": "success",
-      "bars": 2451,
+      "bars": 2448,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -5132,7 +5132,7 @@
       "nse_symbol": "PCBL",
       "yahoo_symbol": "PCBL.NS",
       "status": "success",
-      "bars": 2594,
+      "bars": 2593,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -5162,7 +5162,7 @@
       "nse_symbol": "TRIDENT",
       "yahoo_symbol": "TRIDENT.NS",
       "status": "success",
-      "bars": 2623,
+      "bars": 2625,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -5192,7 +5192,7 @@
       "nse_symbol": "GODREJAGRO",
       "yahoo_symbol": "GODREJAGRO.NS",
       "status": "success",
-      "bars": 2195,
+      "bars": 2196,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -5202,7 +5202,7 @@
       "nse_symbol": "SAREGAMA",
       "yahoo_symbol": "SAREGAMA.NS",
       "status": "success",
-      "bars": 2537,
+      "bars": 2539,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -5212,7 +5212,7 @@
       "nse_symbol": "VOLTAMP",
       "yahoo_symbol": "VOLTAMP.NS",
       "status": "success",
-      "bars": 2361,
+      "bars": 2362,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -5222,7 +5222,7 @@
       "nse_symbol": "UTIAMC",
       "yahoo_symbol": "UTIAMC.NS",
       "status": "success",
-      "bars": 2546,
+      "bars": 2547,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -5252,7 +5252,7 @@
       "nse_symbol": "WHIRLPOOL",
       "yahoo_symbol": "WHIRLPOOL.NS",
       "status": "success",
-      "bars": 2603,
+      "bars": 2605,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -5272,7 +5272,7 @@
       "nse_symbol": "BLUESTONE",
       "yahoo_symbol": "BLUESTONE.NS",
       "status": "success",
-      "bars": 2604,
+      "bars": 2605,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -5282,7 +5282,7 @@
       "nse_symbol": "VINATIORGA",
       "yahoo_symbol": "VINATIORGA.NS",
       "status": "success",
-      "bars": 2336,
+      "bars": 2338,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -5292,7 +5292,7 @@
       "nse_symbol": "BLACKBUCK",
       "yahoo_symbol": "BLACKBUCK.NS",
       "status": "success",
-      "bars": 2622,
+      "bars": 2623,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -5312,7 +5312,7 @@
       "nse_symbol": "ELANTAS",
       "yahoo_symbol": "ELANTAS.NS",
       "status": "success",
-      "bars": 1245,
+      "bars": 1244,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -5322,7 +5322,7 @@
       "nse_symbol": "PARAS",
       "yahoo_symbol": "PARAS.NS",
       "status": "success",
-      "bars": 2626,
+      "bars": 2625,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -5332,7 +5332,7 @@
       "nse_symbol": "TIPSMUSIC",
       "yahoo_symbol": "TIPSMUSIC.NS",
       "status": "success",
-      "bars": 2606,
+      "bars": 2607,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -5342,7 +5342,7 @@
       "nse_symbol": "BLUEDART",
       "yahoo_symbol": "BLUEDART.NS",
       "status": "success",
-      "bars": 1595,
+      "bars": 1594,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -5382,7 +5382,7 @@
       "nse_symbol": "TECHNOE",
       "yahoo_symbol": "TECHNOE.NS",
       "status": "success",
-      "bars": 2578,
+      "bars": 2577,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -5392,7 +5392,7 @@
       "nse_symbol": "CANFINHOME",
       "yahoo_symbol": "CANFINHOME.NS",
       "status": "success",
-      "bars": 2257,
+      "bars": 2258,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -5412,7 +5412,7 @@
       "nse_symbol": "BLUEJET",
       "yahoo_symbol": "BLUEJET.NS",
       "status": "success",
-      "bars": 2471,
+      "bars": 2473,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -5432,7 +5432,7 @@
       "nse_symbol": "PARKHOSPS",
       "yahoo_symbol": "PARKHOSPS.NS",
       "status": "success",
-      "bars": 2328,
+      "bars": 2327,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -5452,7 +5452,7 @@
       "nse_symbol": "ELECON",
       "yahoo_symbol": "ELECON.NS",
       "status": "success",
-      "bars": 2560,
+      "bars": 2561,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -5472,7 +5472,7 @@
       "nse_symbol": "SBFC",
       "yahoo_symbol": "SBFC.NS",
       "status": "success",
-      "bars": 2551,
+      "bars": 2548,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -5482,7 +5482,7 @@
       "nse_symbol": "LLOYDSENT",
       "yahoo_symbol": "LLOYDSENT.NS",
       "status": "success",
-      "bars": 2408,
+      "bars": 2407,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -5492,7 +5492,7 @@
       "nse_symbol": "JAINREC",
       "yahoo_symbol": "JAINREC.NS",
       "status": "success",
-      "bars": 2378,
+      "bars": 2379,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -5522,7 +5522,7 @@
       "nse_symbol": "AUGMONT",
       "yahoo_symbol": "AUGMONT.NS",
       "status": "success",
-      "bars": 2299,
+      "bars": 2300,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -5532,7 +5532,7 @@
       "nse_symbol": "RITES",
       "yahoo_symbol": "RITES.NS",
       "status": "success",
-      "bars": 2600,
+      "bars": 2601,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -5542,7 +5542,7 @@
       "nse_symbol": "BSOFT",
       "yahoo_symbol": "BSOFT.NS",
       "status": "success",
-      "bars": 2624,
+      "bars": 2625,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -5572,7 +5572,7 @@
       "nse_symbol": "TARIL",
       "yahoo_symbol": "TARIL.NS",
       "status": "success",
-      "bars": 2625,
+      "bars": 2626,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -5592,7 +5592,7 @@
       "nse_symbol": "YATHARTH",
       "yahoo_symbol": "YATHARTH.NS",
       "status": "success",
-      "bars": 2586,
+      "bars": 2587,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -5622,7 +5622,7 @@
       "nse_symbol": "WEWORK",
       "yahoo_symbol": "WEWORK.NS",
       "status": "success",
-      "bars": 2285,
+      "bars": 2284,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -5632,7 +5632,7 @@
       "nse_symbol": "TITAGARH",
       "yahoo_symbol": "TITAGARH.NS",
       "status": "success",
-      "bars": 2621,
+      "bars": 2622,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -5652,7 +5652,7 @@
       "nse_symbol": "ICIL",
       "yahoo_symbol": "ICIL.NS",
       "status": "success",
-      "bars": 2503,
+      "bars": 2504,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -5662,7 +5662,7 @@
       "nse_symbol": "HCG",
       "yahoo_symbol": "HCG.NS",
       "status": "success",
-      "bars": 2334,
+      "bars": 2335,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -5702,7 +5702,7 @@
       "nse_symbol": "BLS",
       "yahoo_symbol": "BLS.NS",
       "status": "success",
-      "bars": 2584,
+      "bars": 2585,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -5722,7 +5722,7 @@
       "nse_symbol": "WELENT",
       "yahoo_symbol": "WELENT.NS",
       "status": "success",
-      "bars": 2104,
+      "bars": 2105,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -5732,7 +5732,7 @@
       "nse_symbol": "FINPIPE",
       "yahoo_symbol": "FINPIPE.NS",
       "status": "success",
-      "bars": 2605,
+      "bars": 2606,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -5772,7 +5772,7 @@
       "nse_symbol": "GENUSPOWER",
       "yahoo_symbol": "GENUSPOWER.NS",
       "status": "success",
-      "bars": 2608,
+      "bars": 2609,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -5802,7 +5802,7 @@
       "nse_symbol": "PNGJL",
       "yahoo_symbol": "PNGJL.NS",
       "status": "success",
-      "bars": 2542,
+      "bars": 2543,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -5832,7 +5832,7 @@
       "nse_symbol": "MBAPL",
       "yahoo_symbol": "MBAPL.NS",
       "status": "success",
-      "bars": 2309,
+      "bars": 2310,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -5882,7 +5882,7 @@
       "nse_symbol": "SYMBIOTEC",
       "yahoo_symbol": "SYMBIOTEC.NS",
       "status": "success",
-      "bars": 2583,
+      "bars": 2584,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -5902,7 +5902,7 @@
       "nse_symbol": "AXISCADES",
       "yahoo_symbol": "AXISCADES.NS",
       "status": "success",
-      "bars": 2546,
+      "bars": 2545,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -5932,7 +5932,7 @@
       "nse_symbol": "AARTIPHARM",
       "yahoo_symbol": "AARTIPHARM.NS",
       "status": "success",
-      "bars": 2624,
+      "bars": 2626,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -5942,7 +5942,7 @@
       "nse_symbol": "KRBL",
       "yahoo_symbol": "KRBL.NS",
       "status": "success",
-      "bars": 2341,
+      "bars": 2342,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -5952,7 +5952,7 @@
       "nse_symbol": "SETL",
       "yahoo_symbol": "SETL.NS",
       "status": "success",
-      "bars": 2186,
+      "bars": 2187,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -5962,7 +5962,7 @@
       "nse_symbol": "DYNAMATECH",
       "yahoo_symbol": "DYNAMATECH.NS",
       "status": "success",
-      "bars": 2382,
+      "bars": 2384,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -5972,7 +5972,7 @@
       "nse_symbol": "SANDUMA",
       "yahoo_symbol": "SANDUMA.NS",
       "status": "success",
-      "bars": 2420,
+      "bars": 2419,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -6042,7 +6042,7 @@
       "nse_symbol": "GPPL",
       "yahoo_symbol": "GPPL.NS",
       "status": "success",
-      "bars": 2564,
+      "bars": 2566,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -6052,7 +6052,7 @@
       "nse_symbol": "RPEL",
       "yahoo_symbol": "RPEL.NS",
       "status": "success",
-      "bars": 2152,
+      "bars": 2153,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -6072,7 +6072,7 @@
       "nse_symbol": "AFCONS",
       "yahoo_symbol": "AFCONS.NS",
       "status": "success",
-      "bars": 2509,
+      "bars": 2510,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -6082,7 +6082,7 @@
       "nse_symbol": "EBGNG",
       "yahoo_symbol": "EBGNG.NS",
       "status": "success",
-      "bars": 2610,
+      "bars": 2609,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -6102,7 +6102,7 @@
       "nse_symbol": "GALAXYSURF",
       "yahoo_symbol": "GALAXYSURF.NS",
       "status": "success",
-      "bars": 1978,
+      "bars": 1979,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -6112,7 +6112,7 @@
       "nse_symbol": "GNFC",
       "yahoo_symbol": "GNFC.NS",
       "status": "success",
-      "bars": 2512,
+      "bars": 2513,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -6122,7 +6122,7 @@
       "nse_symbol": "PAISALO",
       "yahoo_symbol": "PAISALO.NS",
       "status": "success",
-      "bars": 2518,
+      "bars": 2519,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -6142,7 +6142,7 @@
       "nse_symbol": "SANOFI",
       "yahoo_symbol": "SANOFI.NS",
       "status": "success",
-      "bars": 2320,
+      "bars": 2319,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -6152,7 +6152,7 @@
       "nse_symbol": "RAYMOND",
       "yahoo_symbol": "RAYMOND.NS",
       "status": "success",
-      "bars": 2621,
+      "bars": 2622,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -6182,7 +6182,7 @@
       "nse_symbol": "TFCILTD",
       "yahoo_symbol": "TFCILTD.NS",
       "status": "success",
-      "bars": 2595,
+      "bars": 2596,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -6202,7 +6202,7 @@
       "nse_symbol": "GARFIBRES",
       "yahoo_symbol": "GARFIBRES.NS",
       "status": "success",
-      "bars": 2022,
+      "bars": 2023,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -6222,7 +6222,7 @@
       "nse_symbol": "WAAREERTL",
       "yahoo_symbol": "WAAREERTL.NS",
       "status": "success",
-      "bars": 2618,
+      "bars": 2619,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -6262,7 +6262,7 @@
       "nse_symbol": "RHIM",
       "yahoo_symbol": "RHIM.NS",
       "status": "success",
-      "bars": 2208,
+      "bars": 2210,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -6272,7 +6272,7 @@
       "nse_symbol": "NCC",
       "yahoo_symbol": "NCC.NS",
       "status": "success",
-      "bars": 2623,
+      "bars": 2624,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -6282,7 +6282,7 @@
       "nse_symbol": "RAILTEL",
       "yahoo_symbol": "RAILTEL.NS",
       "status": "success",
-      "bars": 2608,
+      "bars": 2610,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -6292,7 +6292,7 @@
       "nse_symbol": "PRECWIRE",
       "yahoo_symbol": "PRECWIRE.NS",
       "status": "success",
-      "bars": 2590,
+      "bars": 2589,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -6302,7 +6302,7 @@
       "nse_symbol": "OPTIEMUS",
       "yahoo_symbol": "OPTIEMUS.NS",
       "status": "success",
-      "bars": 2546,
+      "bars": 2545,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -6332,7 +6332,7 @@
       "nse_symbol": "AVL",
       "yahoo_symbol": "AVL.NS",
       "status": "success",
-      "bars": 2009,
+      "bars": 2007,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -6362,7 +6362,7 @@
       "nse_symbol": "IBULLSLTD",
       "yahoo_symbol": "IBULLSLTD.NS",
       "status": "success",
-      "bars": 2617,
+      "bars": 2618,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -6372,7 +6372,7 @@
       "nse_symbol": "TTKPRESTIG",
       "yahoo_symbol": "TTKPRESTIG.NS",
       "status": "success",
-      "bars": 1787,
+      "bars": 1788,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -6392,7 +6392,7 @@
       "nse_symbol": "NESCO",
       "yahoo_symbol": "NESCO.NS",
       "status": "success",
-      "bars": 1921,
+      "bars": 1924,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -6432,7 +6432,7 @@
       "nse_symbol": "SKFINDIA",
       "yahoo_symbol": "SKFINDIA.NS",
       "status": "success",
-      "bars": 1765,
+      "bars": 1766,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -6462,7 +6462,7 @@
       "nse_symbol": "POWERMECH",
       "yahoo_symbol": "POWERMECH.NS",
       "status": "success",
-      "bars": 2287,
+      "bars": 2286,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -6472,7 +6472,7 @@
       "nse_symbol": "SMLMAH",
       "yahoo_symbol": "SMLMAH.NS",
       "status": "success",
-      "bars": 2371,
+      "bars": 2372,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -6482,7 +6482,7 @@
       "nse_symbol": "SUPRIYA",
       "yahoo_symbol": "SUPRIYA.NS",
       "status": "success",
-      "bars": 2426,
+      "bars": 2427,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -6502,7 +6502,7 @@
       "nse_symbol": "RELAXO",
       "yahoo_symbol": "RELAXO.NS",
       "status": "success",
-      "bars": 2253,
+      "bars": 2255,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -6532,7 +6532,7 @@
       "nse_symbol": "TCI",
       "yahoo_symbol": "TCI.NS",
       "status": "success",
-      "bars": 1642,
+      "bars": 1641,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -6552,7 +6552,7 @@
       "nse_symbol": "JKPAPER",
       "yahoo_symbol": "JKPAPER.NS",
       "status": "success",
-      "bars": 2283,
+      "bars": 2282,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -6572,7 +6572,7 @@
       "nse_symbol": "ETHOSLTD",
       "yahoo_symbol": "ETHOSLTD.NS",
       "status": "success",
-      "bars": 2166,
+      "bars": 2165,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -6592,7 +6592,7 @@
       "nse_symbol": "RAIN",
       "yahoo_symbol": "RAIN.NS",
       "status": "success",
-      "bars": 2607,
+      "bars": 2609,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -6612,7 +6612,7 @@
       "nse_symbol": "HNDFDS",
       "yahoo_symbol": "HNDFDS.NS",
       "status": "success",
-      "bars": 1605,
+      "bars": 1606,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -6622,7 +6622,7 @@
       "nse_symbol": "SUPRAJIT",
       "yahoo_symbol": "SUPRAJIT.NS",
       "status": "success",
-      "bars": 2035,
+      "bars": 2034,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -6642,7 +6642,7 @@
       "nse_symbol": "GAEL",
       "yahoo_symbol": "GAEL.NS",
       "status": "success",
-      "bars": 2530,
+      "bars": 2532,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -6662,7 +6662,7 @@
       "nse_symbol": "KOVAI",
       "yahoo_symbol": "KOVAI.NS",
       "status": "success",
-      "bars": 1364,
+      "bars": 1365,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -6672,7 +6672,7 @@
       "nse_symbol": "GOKULAGRO",
       "yahoo_symbol": "GOKULAGRO.NS",
       "status": "success",
-      "bars": 2377,
+      "bars": 2378,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -6732,7 +6732,7 @@
       "nse_symbol": "MOREPENLAB",
       "yahoo_symbol": "MOREPENLAB.NS",
       "status": "success",
-      "bars": 2618,
+      "bars": 2617,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -6742,7 +6742,7 @@
       "nse_symbol": "DCBBANK",
       "yahoo_symbol": "DCBBANK.NS",
       "status": "success",
-      "bars": 2582,
+      "bars": 2584,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -6772,7 +6772,7 @@
       "nse_symbol": "FDC",
       "yahoo_symbol": "FDC.NS",
       "status": "success",
-      "bars": 2418,
+      "bars": 2419,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -6812,7 +6812,7 @@
       "nse_symbol": "TIMEX",
       "yahoo_symbol": "TIMEX.NS",
       "status": "success",
-      "bars": 2561,
+      "bars": 2562,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -6822,7 +6822,7 @@
       "nse_symbol": "DBL",
       "yahoo_symbol": "DBL.NS",
       "status": "success",
-      "bars": 1837,
+      "bars": 1839,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -6832,7 +6832,7 @@
       "nse_symbol": "EUREKAFORB",
       "yahoo_symbol": "EUREKAFORB.NS",
       "status": "success",
-      "bars": 2266,
+      "bars": 2267,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -6842,7 +6842,7 @@
       "nse_symbol": "SKIPPER",
       "yahoo_symbol": "SKIPPER.NS",
       "status": "success",
-      "bars": 2560,
+      "bars": 2561,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -6852,7 +6852,7 @@
       "nse_symbol": "SHARDACROP",
       "yahoo_symbol": "SHARDACROP.NS",
       "status": "success",
-      "bars": 2558,
+      "bars": 2559,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -6862,7 +6862,7 @@
       "nse_symbol": "BIRLACORPN",
       "yahoo_symbol": "BIRLACORPN.NS",
       "status": "success",
-      "bars": 1939,
+      "bars": 1940,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -6882,7 +6882,7 @@
       "nse_symbol": "SFL",
       "yahoo_symbol": "SFL.NS",
       "status": "success",
-      "bars": 2309,
+      "bars": 2310,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -6892,7 +6892,7 @@
       "nse_symbol": "POWERICA",
       "yahoo_symbol": "POWERICA.NS",
       "status": "success",
-      "bars": 2241,
+      "bars": 2242,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -6902,7 +6902,7 @@
       "nse_symbol": "DODLA",
       "yahoo_symbol": "DODLA.NS",
       "status": "success",
-      "bars": 1745,
+      "bars": 1746,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -6922,7 +6922,7 @@
       "nse_symbol": "VMART",
       "yahoo_symbol": "VMART.NS",
       "status": "success",
-      "bars": 1814,
+      "bars": 1813,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -6942,7 +6942,7 @@
       "nse_symbol": "TIIL",
       "yahoo_symbol": "TIIL.NS",
       "status": "success",
-      "bars": 1588,
+      "bars": 1589,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -6952,7 +6952,7 @@
       "nse_symbol": "SBCL",
       "yahoo_symbol": "SBCL.NS",
       "status": "success",
-      "bars": 2537,
+      "bars": 2539,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -6982,7 +6982,7 @@
       "nse_symbol": "SAFARI",
       "yahoo_symbol": "SAFARI.NS",
       "status": "success",
-      "bars": 2039,
+      "bars": 2037,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -7012,7 +7012,7 @@
       "nse_symbol": "BALAMINES",
       "yahoo_symbol": "BALAMINES.NS",
       "status": "success",
-      "bars": 2494,
+      "bars": 2495,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -7022,7 +7022,7 @@
       "nse_symbol": "TRANSRAILL",
       "yahoo_symbol": "TRANSRAILL.NS",
       "status": "success",
-      "bars": 2523,
+      "bars": 2522,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -7042,7 +7042,7 @@
       "nse_symbol": "NIRLON",
       "yahoo_symbol": "NIRLON.NS",
       "status": "success",
-      "bars": 660,
+      "bars": 661,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -7062,7 +7062,7 @@
       "nse_symbol": "FCL",
       "yahoo_symbol": "FCL.NS",
       "status": "success",
-      "bars": 2625,
+      "bars": 2626,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -7082,7 +7082,7 @@
       "nse_symbol": "KUSUMGAR",
       "yahoo_symbol": "KUSUMGAR.NS",
       "status": "success",
-      "bars": 2199,
+      "bars": 2200,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -7112,7 +7112,7 @@
       "nse_symbol": "BECTORFOOD",
       "yahoo_symbol": "BECTORFOOD.NS",
       "status": "success",
-      "bars": 2568,
+      "bars": 2569,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -7122,7 +7122,7 @@
       "nse_symbol": "GANESHHOU",
       "yahoo_symbol": "GANESHHOU.NS",
       "status": "success",
-      "bars": 1054,
+      "bars": 1056,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -7142,7 +7142,7 @@
       "nse_symbol": "SMARTWORKS",
       "yahoo_symbol": "SMARTWORKS.NS",
       "status": "success",
-      "bars": 1496,
+      "bars": 1498,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -7172,7 +7172,7 @@
       "nse_symbol": "WHEELS",
       "yahoo_symbol": "WHEELS.NS",
       "status": "success",
-      "bars": 2516,
+      "bars": 2515,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -7182,7 +7182,7 @@
       "nse_symbol": "GMMPFAUDLR",
       "yahoo_symbol": "GMMPFAUDLR.NS",
       "status": "success",
-      "bars": 2532,
+      "bars": 2533,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -7192,7 +7192,7 @@
       "nse_symbol": "ACI",
       "yahoo_symbol": "ACI.NS",
       "status": "success",
-      "bars": 2268,
+      "bars": 2269,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -7212,7 +7212,7 @@
       "nse_symbol": "LCL",
       "yahoo_symbol": "LCL.NS",
       "status": "success",
-      "bars": 2533,
+      "bars": 2532,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -7222,7 +7222,7 @@
       "nse_symbol": "FEDFINA",
       "yahoo_symbol": "FEDFINA.NS",
       "status": "success",
-      "bars": 2317,
+      "bars": 2318,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -7242,7 +7242,7 @@
       "nse_symbol": "WSTCSTPAPR",
       "yahoo_symbol": "WSTCSTPAPR.NS",
       "status": "success",
-      "bars": 2560,
+      "bars": 2561,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -7262,7 +7262,7 @@
       "nse_symbol": "BALUFORGE",
       "yahoo_symbol": "BALUFORGE.NS",
       "status": "success",
-      "bars": 2531,
+      "bars": 2532,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -7272,7 +7272,7 @@
       "nse_symbol": "LGBBROSLTD",
       "yahoo_symbol": "LGBBROSLTD.NS",
       "status": "success",
-      "bars": 1577,
+      "bars": 1576,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -7292,7 +7292,7 @@
       "nse_symbol": "GREENLAM",
       "yahoo_symbol": "GREENLAM.NS",
       "status": "success",
-      "bars": 885,
+      "bars": 886,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -7302,7 +7302,7 @@
       "nse_symbol": "SENORES",
       "yahoo_symbol": "SENORES.NS",
       "status": "success",
-      "bars": 2540,
+      "bars": 2541,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -7312,7 +7312,7 @@
       "nse_symbol": "RPTECH",
       "yahoo_symbol": "RPTECH.NS",
       "status": "success",
-      "bars": 2483,
+      "bars": 2484,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -7332,7 +7332,7 @@
       "nse_symbol": "RCF",
       "yahoo_symbol": "RCF.NS",
       "status": "success",
-      "bars": 2566,
+      "bars": 2568,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -7352,7 +7352,7 @@
       "nse_symbol": "CSBBANK",
       "yahoo_symbol": "CSBBANK.NS",
       "status": "success",
-      "bars": 2088,
+      "bars": 2087,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -7362,7 +7362,7 @@
       "nse_symbol": "ROSSTECH",
       "yahoo_symbol": "ROSSTECH.NS",
       "status": "success",
-      "bars": 2355,
+      "bars": 2357,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -7372,7 +7372,7 @@
       "nse_symbol": "SIS",
       "yahoo_symbol": "SIS.NS",
       "status": "success",
-      "bars": 2181,
+      "bars": 2182,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -7382,7 +7382,7 @@
       "nse_symbol": "GULFOILLUB",
       "yahoo_symbol": "GULFOILLUB.NS",
       "status": "success",
-      "bars": 2348,
+      "bars": 2347,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -7402,7 +7402,7 @@
       "nse_symbol": "STYL",
       "yahoo_symbol": "STYL.NS",
       "status": "success",
-      "bars": 1644,
+      "bars": 1643,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -7422,7 +7422,7 @@
       "nse_symbol": "ORCHPHARMA",
       "yahoo_symbol": "ORCHPHARMA.NS",
       "status": "success",
-      "bars": 1968,
+      "bars": 1969,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -7432,7 +7432,7 @@
       "nse_symbol": "CARERATING",
       "yahoo_symbol": "CARERATING.NS",
       "status": "success",
-      "bars": 2130,
+      "bars": 2129,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -7442,7 +7442,7 @@
       "nse_symbol": "TRIVENI",
       "yahoo_symbol": "TRIVENI.NS",
       "status": "success",
-      "bars": 2401,
+      "bars": 2403,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -7452,7 +7452,7 @@
       "nse_symbol": "IONEXCHANG",
       "yahoo_symbol": "IONEXCHANG.NS",
       "status": "success",
-      "bars": 2610,
+      "bars": 2611,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -7462,7 +7462,7 @@
       "nse_symbol": "GOODLUCK",
       "yahoo_symbol": "GOODLUCK.NS",
       "status": "success",
-      "bars": 2564,
+      "bars": 2565,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -7472,7 +7472,7 @@
       "nse_symbol": "BAJAJCON",
       "yahoo_symbol": "BAJAJCON.NS",
       "status": "success",
-      "bars": 2600,
+      "bars": 2602,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -7502,7 +7502,7 @@
       "nse_symbol": "SMSPHARMA",
       "yahoo_symbol": "SMSPHARMA.NS",
       "status": "success",
-      "bars": 2397,
+      "bars": 2396,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -7512,7 +7512,7 @@
       "nse_symbol": "INDIGOPNTS",
       "yahoo_symbol": "INDIGOPNTS.NS",
       "status": "success",
-      "bars": 1953,
+      "bars": 1954,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -7522,7 +7522,7 @@
       "nse_symbol": "RAMRAT",
       "yahoo_symbol": "RAMRAT.NS",
       "status": "success",
-      "bars": 2332,
+      "bars": 2333,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -7532,7 +7532,7 @@
       "nse_symbol": "GUJTHEM",
       "yahoo_symbol": "GUJTHEM.NS",
       "status": "success",
-      "bars": 2127,
+      "bars": 2126,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -7542,7 +7542,7 @@
       "nse_symbol": "PDSL",
       "yahoo_symbol": "PDSL.NS",
       "status": "success",
-      "bars": 1982,
+      "bars": 1981,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -7592,7 +7592,7 @@
       "nse_symbol": "ARTEMISMED",
       "yahoo_symbol": "ARTEMISMED.NS",
       "status": "success",
-      "bars": 2324,
+      "bars": 2323,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -7602,7 +7602,7 @@
       "nse_symbol": "SHARDAMOTR",
       "yahoo_symbol": "SHARDAMOTR.NS",
       "status": "success",
-      "bars": 1986,
+      "bars": 1988,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -7612,7 +7612,7 @@
       "nse_symbol": "TVSSCS",
       "yahoo_symbol": "TVSSCS.NS",
       "status": "success",
-      "bars": 2385,
+      "bars": 2387,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -7622,7 +7622,7 @@
       "nse_symbol": "GOKEX",
       "yahoo_symbol": "GOKEX.NS",
       "status": "success",
-      "bars": 2489,
+      "bars": 2490,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -7632,7 +7632,7 @@
       "nse_symbol": "KDDL",
       "yahoo_symbol": "KDDL.NS",
       "status": "success",
-      "bars": 1900,
+      "bars": 1901,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -7642,7 +7642,7 @@
       "nse_symbol": "QUESS",
       "yahoo_symbol": "QUESS.NS",
       "status": "success",
-      "bars": 2432,
+      "bars": 2433,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -7652,7 +7652,7 @@
       "nse_symbol": "PURVA",
       "yahoo_symbol": "PURVA.NS",
       "status": "success",
-      "bars": 1551,
+      "bars": 1552,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -7662,7 +7662,7 @@
       "nse_symbol": "VRLLOG",
       "yahoo_symbol": "VRLLOG.NS",
       "status": "success",
-      "bars": 2094,
+      "bars": 2095,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -7672,7 +7672,7 @@
       "nse_symbol": "SGFIN",
       "yahoo_symbol": "SGFIN.NS",
       "status": "success",
-      "bars": 2390,
+      "bars": 2391,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -7702,7 +7702,7 @@
       "nse_symbol": "BANSALWIRE",
       "yahoo_symbol": "BANSALWIRE.NS",
       "status": "success",
-      "bars": 1905,
+      "bars": 1904,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -7722,7 +7722,7 @@
       "nse_symbol": "SAMBHV",
       "yahoo_symbol": "SAMBHV.NS",
       "status": "success",
-      "bars": 2593,
+      "bars": 2594,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -7742,7 +7742,7 @@
       "nse_symbol": "WAKEFIT",
       "yahoo_symbol": "WAKEFIT.NS",
       "status": "success",
-      "bars": 1677,
+      "bars": 1678,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -7752,7 +7752,7 @@
       "nse_symbol": "FIEMIND",
       "yahoo_symbol": "FIEMIND.NS",
       "status": "success",
-      "bars": 2487,
+      "bars": 2486,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -7762,7 +7762,7 @@
       "nse_symbol": "SOTL",
       "yahoo_symbol": "SOTL.NS",
       "status": "success",
-      "bars": 2462,
+      "bars": 2463,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -7772,7 +7772,7 @@
       "nse_symbol": "PRAJIND",
       "yahoo_symbol": "PRAJIND.NS",
       "status": "success",
-      "bars": 2601,
+      "bars": 2600,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -7792,7 +7792,7 @@
       "nse_symbol": "SURYAROSNI",
       "yahoo_symbol": "SURYAROSNI.NS",
       "status": "success",
-      "bars": 2340,
+      "bars": 2339,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -7802,7 +7802,7 @@
       "nse_symbol": "MASTEK",
       "yahoo_symbol": "MASTEK.NS",
       "status": "success",
-      "bars": 2576,
+      "bars": 2577,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -7812,7 +7812,7 @@
       "nse_symbol": "DPABHUSHAN",
       "yahoo_symbol": "DPABHUSHAN.NS",
       "status": "success",
-      "bars": 2209,
+      "bars": 2210,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -7822,7 +7822,7 @@
       "nse_symbol": "FOSECOIND",
       "yahoo_symbol": "FOSECOIND.NS",
       "status": "success",
-      "bars": 1495,
+      "bars": 1494,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -7882,7 +7882,7 @@
       "nse_symbol": "MAPMYINDIA",
       "yahoo_symbol": "MAPMYINDIA.NS",
       "status": "success",
-      "bars": 2497,
+      "bars": 2496,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -7902,7 +7902,7 @@
       "nse_symbol": "ELLEN",
       "yahoo_symbol": "ELLEN.NS",
       "status": "success",
-      "bars": 2344,
+      "bars": 2343,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -7912,7 +7912,7 @@
       "nse_symbol": "NRBBEARING",
       "yahoo_symbol": "NRBBEARING.NS",
       "status": "success",
-      "bars": 2489,
+      "bars": 2491,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -7922,7 +7922,7 @@
       "nse_symbol": "CMRGREEN",
       "yahoo_symbol": "CMRGREEN.NS",
       "status": "success",
-      "bars": 2034,
+      "bars": 2033,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -7942,7 +7942,7 @@
       "nse_symbol": "GOLDIAM",
       "yahoo_symbol": "GOLDIAM.NS",
       "status": "success",
-      "bars": 2371,
+      "bars": 2372,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -7972,7 +7972,7 @@
       "nse_symbol": "DEEPINDS",
       "yahoo_symbol": "DEEPINDS.NS",
       "status": "success",
-      "bars": 2278,
+      "bars": 2277,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -7982,7 +7982,7 @@
       "nse_symbol": "RUSTOMJEE",
       "yahoo_symbol": "RUSTOMJEE.NS",
       "status": "success",
-      "bars": 834,
+      "bars": 835,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -7992,7 +7992,7 @@
       "nse_symbol": "ROLEXRINGS",
       "yahoo_symbol": "ROLEXRINGS.NS",
       "status": "success",
-      "bars": 2592,
+      "bars": 2593,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -8002,7 +8002,7 @@
       "nse_symbol": "RPGLIFE",
       "yahoo_symbol": "RPGLIFE.NS",
       "status": "success",
-      "bars": 1866,
+      "bars": 1865,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -8022,7 +8022,7 @@
       "nse_symbol": "CCAVENUE",
       "yahoo_symbol": "CCAVENUE.NS",
       "status": "success",
-      "bars": 2583,
+      "bars": 2582,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -8032,7 +8032,7 @@
       "nse_symbol": "SANATHAN",
       "yahoo_symbol": "SANATHAN.NS",
       "status": "success",
-      "bars": 1460,
+      "bars": 1463,
       "earliest_timestamp": "2026-10-22T03:46:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -8042,7 +8042,7 @@
       "nse_symbol": "IFBIND",
       "yahoo_symbol": "IFBIND.NS",
       "status": "success",
-      "bars": 1753,
+      "bars": 1755,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -8052,7 +8052,7 @@
       "nse_symbol": "NOVARTIND",
       "yahoo_symbol": "NOVARTIND.NS",
       "status": "success",
-      "bars": 1621,
+      "bars": 1622,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -8062,7 +8062,7 @@
       "nse_symbol": "UNIVCABLES",
       "yahoo_symbol": "UNIVCABLES.NS",
       "status": "success",
-      "bars": 2232,
+      "bars": 2231,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -8102,7 +8102,7 @@
       "nse_symbol": "ICRA",
       "yahoo_symbol": "ICRA.NS",
       "status": "success",
-      "bars": 1932,
+      "bars": 1931,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -8112,7 +8112,7 @@
       "nse_symbol": "AGI",
       "yahoo_symbol": "AGI.NS",
       "status": "success",
-      "bars": 2183,
+      "bars": 2184,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -8122,7 +8122,7 @@
       "nse_symbol": "GUFICBIO",
       "yahoo_symbol": "GUFICBIO.NS",
       "status": "success",
-      "bars": 1560,
+      "bars": 1562,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -8132,7 +8132,7 @@
       "nse_symbol": "VENUSPIPES",
       "yahoo_symbol": "VENUSPIPES.NS",
       "status": "success",
-      "bars": 2487,
+      "bars": 2488,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -8142,7 +8142,7 @@
       "nse_symbol": "SEAMECLTD",
       "yahoo_symbol": "SEAMECLTD.NS",
       "status": "success",
-      "bars": 1971,
+      "bars": 1970,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -8162,7 +8162,7 @@
       "nse_symbol": "BAJAJHIND",
       "yahoo_symbol": "BAJAJHIND.NS",
       "status": "success",
-      "bars": 2620,
+      "bars": 2621,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -8182,7 +8182,7 @@
       "nse_symbol": "CRAMC",
       "yahoo_symbol": "CRAMC.NS",
       "status": "success",
-      "bars": 2373,
+      "bars": 2374,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -8192,7 +8192,7 @@
       "nse_symbol": "UFLEX",
       "yahoo_symbol": "UFLEX.NS",
       "status": "success",
-      "bars": 1883,
+      "bars": 1882,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -8202,7 +8202,7 @@
       "nse_symbol": "SHILCTECH",
       "yahoo_symbol": "SHILCTECH.NS",
       "status": "success",
-      "bars": 2217,
+      "bars": 2216,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -8222,7 +8222,7 @@
       "nse_symbol": "MAHLOG",
       "yahoo_symbol": "MAHLOG.NS",
       "status": "success",
-      "bars": 2449,
+      "bars": 2450,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -8232,7 +8232,7 @@
       "nse_symbol": "TBZ",
       "yahoo_symbol": "TBZ.NS",
       "status": "success",
-      "bars": 2135,
+      "bars": 2136,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -8242,7 +8242,7 @@
       "nse_symbol": "PTC",
       "yahoo_symbol": "PTC.NS",
       "status": "success",
-      "bars": 2626,
+      "bars": 2624,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -8302,7 +8302,7 @@
       "nse_symbol": "TEXRAIL",
       "yahoo_symbol": "TEXRAIL.NS",
       "status": "success",
-      "bars": 2606,
+      "bars": 2608,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -8332,7 +8332,7 @@
       "nse_symbol": "FILATEX",
       "yahoo_symbol": "FILATEX.NS",
       "status": "success",
-      "bars": 2530,
+      "bars": 2528,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -8342,7 +8342,7 @@
       "nse_symbol": "JSFB",
       "yahoo_symbol": "JSFB.NS",
       "status": "success",
-      "bars": 2502,
+      "bars": 2503,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -8352,7 +8352,7 @@
       "nse_symbol": "ELECTCAST",
       "yahoo_symbol": "ELECTCAST.NS",
       "status": "success",
-      "bars": 2608,
+      "bars": 2609,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -8442,7 +8442,7 @@
       "nse_symbol": "DEEDEV",
       "yahoo_symbol": "DEEDEV.NS",
       "status": "success",
-      "bars": 2392,
+      "bars": 2393,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -8512,7 +8512,7 @@
       "nse_symbol": "NITINSPIN",
       "yahoo_symbol": "NITINSPIN.NS",
       "status": "success",
-      "bars": 2336,
+      "bars": 2334,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -8532,7 +8532,7 @@
       "nse_symbol": "GRAUWEIL",
       "yahoo_symbol": "GRAUWEIL.NS",
       "status": "success",
-      "bars": 1604,
+      "bars": 1605,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -8562,7 +8562,7 @@
       "nse_symbol": "SHANTIGEAR",
       "yahoo_symbol": "SHANTIGEAR.NS",
       "status": "success",
-      "bars": 1469,
+      "bars": 1468,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -8572,7 +8572,7 @@
       "nse_symbol": "KSL",
       "yahoo_symbol": "KSL.NS",
       "status": "success",
-      "bars": 2013,
+      "bars": 2014,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -8582,7 +8582,7 @@
       "nse_symbol": "SINDHUTRAD",
       "yahoo_symbol": "SINDHUTRAD.NS",
       "status": "success",
-      "bars": 1227,
+      "bars": 1226,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -8592,7 +8592,7 @@
       "nse_symbol": "AVANTEL",
       "yahoo_symbol": "AVANTEL.NS",
       "status": "success",
-      "bars": 2572,
+      "bars": 2573,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -8612,7 +8612,7 @@
       "nse_symbol": "RALLIS",
       "yahoo_symbol": "RALLIS.NS",
       "status": "success",
-      "bars": 2625,
+      "bars": 2626,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -8622,7 +8622,7 @@
       "nse_symbol": "AHLUCONT",
       "yahoo_symbol": "AHLUCONT.NS",
       "status": "success",
-      "bars": 1797,
+      "bars": 1798,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -8632,7 +8632,7 @@
       "nse_symbol": "GREENPLY",
       "yahoo_symbol": "GREENPLY.NS",
       "status": "success",
-      "bars": 2011,
+      "bars": 2013,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -8642,7 +8642,7 @@
       "nse_symbol": "ANTELOPUS",
       "yahoo_symbol": "ANTELOPUS.NS",
       "status": "success",
-      "bars": 2565,
+      "bars": 2563,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -8662,7 +8662,7 @@
       "nse_symbol": "GHCL",
       "yahoo_symbol": "GHCL.NS",
       "status": "success",
-      "bars": 2199,
+      "bars": 2200,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -8682,7 +8682,7 @@
       "nse_symbol": "BOROLTD",
       "yahoo_symbol": "BOROLTD.NS",
       "status": "success",
-      "bars": 1874,
+      "bars": 1875,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:58:00Z",
       "error": null
@@ -8692,7 +8692,7 @@
       "nse_symbol": "RTNPOWER",
       "yahoo_symbol": "RTNPOWER.NS",
       "status": "success",
-      "bars": 2625,
+      "bars": 2626,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -8702,7 +8702,7 @@
       "nse_symbol": "UNICHEMLAB",
       "yahoo_symbol": "UNICHEMLAB.NS",
       "status": "success",
-      "bars": 1490,
+      "bars": 1489,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -8712,7 +8712,7 @@
       "nse_symbol": "RAYMONDREL",
       "yahoo_symbol": "RAYMONDREL.NS",
       "status": "success",
-      "bars": 2597,
+      "bars": 2598,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -8732,7 +8732,7 @@
       "nse_symbol": "ASHIANA",
       "yahoo_symbol": "ASHIANA.NS",
       "status": "success",
-      "bars": 998,
+      "bars": 999,
       "earliest_timestamp": "2026-10-22T03:46:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -8742,7 +8742,7 @@
       "nse_symbol": "HIRECT",
       "yahoo_symbol": "HIRECT.NS",
       "status": "success",
-      "bars": 1913,
+      "bars": 1914,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -8752,7 +8752,7 @@
       "nse_symbol": "LUXIND",
       "yahoo_symbol": "LUXIND.NS",
       "status": "success",
-      "bars": 1578,
+      "bars": 1577,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -8762,7 +8762,7 @@
       "nse_symbol": "SYMPHONY",
       "yahoo_symbol": "SYMPHONY.NS",
       "status": "success",
-      "bars": 2265,
+      "bars": 2264,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -8782,7 +8782,7 @@
       "nse_symbol": "NPST",
       "yahoo_symbol": "NPST.NS",
       "status": "success",
-      "bars": 1789,
+      "bars": 1788,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -8792,7 +8792,7 @@
       "nse_symbol": "VSTTILLERS",
       "yahoo_symbol": "VSTTILLERS.NS",
       "status": "success",
-      "bars": 1776,
+      "bars": 1778,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -8802,7 +8802,7 @@
       "nse_symbol": "SHUKRAPHAR",
       "yahoo_symbol": "SHUKRAPHAR.NS",
       "status": "success",
-      "bars": 2606,
+      "bars": 2607,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -8832,7 +8832,7 @@
       "nse_symbol": "CMSINFO",
       "yahoo_symbol": "CMSINFO.NS",
       "status": "success",
-      "bars": 2601,
+      "bars": 2602,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -8842,7 +8842,7 @@
       "nse_symbol": "RML",
       "yahoo_symbol": "RML.NS",
       "status": "success",
-      "bars": 1500,
+      "bars": 1498,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -8852,7 +8852,7 @@
       "nse_symbol": "TARC",
       "yahoo_symbol": "TARC.NS",
       "status": "success",
-      "bars": 1780,
+      "bars": 1781,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -8862,7 +8862,7 @@
       "nse_symbol": "PITTIENG",
       "yahoo_symbol": "PITTIENG.NS",
       "status": "success",
-      "bars": 2244,
+      "bars": 2243,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -8872,7 +8872,7 @@
       "nse_symbol": "VINDHYATEL",
       "yahoo_symbol": "VINDHYATEL.NS",
       "status": "success",
-      "bars": 2188,
+      "bars": 2187,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -8892,7 +8892,7 @@
       "nse_symbol": "DALMIASUG",
       "yahoo_symbol": "DALMIASUG.NS",
       "status": "success",
-      "bars": 2218,
+      "bars": 2219,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -8902,7 +8902,7 @@
       "nse_symbol": "AYE",
       "yahoo_symbol": "AYE.NS",
       "status": "success",
-      "bars": 2389,
+      "bars": 2390,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -8912,7 +8912,7 @@
       "nse_symbol": "PNCINFRA",
       "yahoo_symbol": "PNCINFRA.NS",
       "status": "success",
-      "bars": 2518,
+      "bars": 2517,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -8922,7 +8922,7 @@
       "nse_symbol": "VSSL",
       "yahoo_symbol": "VSSL.NS",
       "status": "success",
-      "bars": 2193,
+      "bars": 2194,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -8932,7 +8932,7 @@
       "nse_symbol": "SWSOLAR",
       "yahoo_symbol": "SWSOLAR.NS",
       "status": "success",
-      "bars": 2598,
+      "bars": 2599,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -8942,7 +8942,7 @@
       "nse_symbol": "SANGHVIMOV",
       "yahoo_symbol": "SANGHVIMOV.NS",
       "status": "success",
-      "bars": 2493,
+      "bars": 2492,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -8952,7 +8952,7 @@
       "nse_symbol": "UNIPARTS",
       "yahoo_symbol": "UNIPARTS.NS",
       "status": "success",
-      "bars": 2162,
+      "bars": 2163,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -8962,7 +8962,7 @@
       "nse_symbol": "VSTIND",
       "yahoo_symbol": "VSTIND.NS",
       "status": "success",
-      "bars": 2428,
+      "bars": 2429,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -8972,7 +8972,7 @@
       "nse_symbol": "SBC",
       "yahoo_symbol": "SBC.NS",
       "status": "success",
-      "bars": 2592,
+      "bars": 2593,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -8982,7 +8982,7 @@
       "nse_symbol": "TVSSRICHAK",
       "yahoo_symbol": "TVSSRICHAK.NS",
       "status": "success",
-      "bars": 1243,
+      "bars": 1245,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -9082,7 +9082,7 @@
       "nse_symbol": "RATNAVEER",
       "yahoo_symbol": "RATNAVEER.NS",
       "status": "success",
-      "bars": 2599,
+      "bars": 2600,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -9102,7 +9102,7 @@
       "nse_symbol": "PACEDIGITK",
       "yahoo_symbol": "PACEDIGITK.NS",
       "status": "success",
-      "bars": 2467,
+      "bars": 2465,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -9132,7 +9132,7 @@
       "nse_symbol": "AURIONPRO",
       "yahoo_symbol": "AURIONPRO.NS",
       "status": "success",
-      "bars": 2508,
+      "bars": 2509,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -9142,7 +9142,7 @@
       "nse_symbol": "RSYSTEMS",
       "yahoo_symbol": "RSYSTEMS.NS",
       "status": "success",
-      "bars": 2403,
+      "bars": 2405,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -9162,7 +9162,7 @@
       "nse_symbol": "ADVENZYMES",
       "yahoo_symbol": "ADVENZYMES.NS",
       "status": "success",
-      "bars": 2097,
+      "bars": 2098,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -9172,7 +9172,7 @@
       "nse_symbol": "JAYKAY",
       "yahoo_symbol": "JAYKAY.NS",
       "status": "success",
-      "bars": 2209,
+      "bars": 2208,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -9182,7 +9182,7 @@
       "nse_symbol": "PARAGMILK",
       "yahoo_symbol": "PARAGMILK.NS",
       "status": "success",
-      "bars": 2541,
+      "bars": 2540,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -9192,7 +9192,7 @@
       "nse_symbol": "ARSSBL",
       "yahoo_symbol": "ARSSBL.NS",
       "status": "success",
-      "bars": 2116,
+      "bars": 2114,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -9202,7 +9202,7 @@
       "nse_symbol": "RAYMONDLSL",
       "yahoo_symbol": "RAYMONDLSL.NS",
       "status": "success",
-      "bars": 2516,
+      "bars": 2517,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -9212,7 +9212,7 @@
       "nse_symbol": "JTLIND",
       "yahoo_symbol": "JTLIND.NS",
       "status": "success",
-      "bars": 2572,
+      "bars": 2571,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -9222,7 +9222,7 @@
       "nse_symbol": "REFEX",
       "yahoo_symbol": "REFEX.NS",
       "status": "success",
-      "bars": 2308,
+      "bars": 2310,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -9242,7 +9242,7 @@
       "nse_symbol": "JUBLCPL",
       "yahoo_symbol": "JUBLCPL.NS",
       "status": "success",
-      "bars": 843,
+      "bars": 844,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -9252,7 +9252,7 @@
       "nse_symbol": "INDOTECH",
       "yahoo_symbol": "INDOTECH.NS",
       "status": "success",
-      "bars": 2150,
+      "bars": 2151,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -9292,7 +9292,7 @@
       "nse_symbol": "ORIENTHOT",
       "yahoo_symbol": "ORIENTHOT.NS",
       "status": "success",
-      "bars": 2486,
+      "bars": 2485,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -9302,7 +9302,7 @@
       "nse_symbol": "WEBELSOLAR",
       "yahoo_symbol": "WEBELSOLAR.NS",
       "status": "success",
-      "bars": 2331,
+      "bars": 2332,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -9312,7 +9312,7 @@
       "nse_symbol": "PRINCEPIPE",
       "yahoo_symbol": "PRINCEPIPE.NS",
       "status": "success",
-      "bars": 1997,
+      "bars": 1996,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -9342,7 +9342,7 @@
       "nse_symbol": "EMUDHRA",
       "yahoo_symbol": "EMUDHRA.NS",
       "status": "success",
-      "bars": 2600,
+      "bars": 2601,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -9372,7 +9372,7 @@
       "nse_symbol": "HLEGLAS",
       "yahoo_symbol": "HLEGLAS.NS",
       "status": "success",
-      "bars": 1798,
+      "bars": 1800,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -9382,7 +9382,7 @@
       "nse_symbol": "NAVNETEDUL",
       "yahoo_symbol": "NAVNETEDUL.NS",
       "status": "success",
-      "bars": 1264,
+      "bars": 1266,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -9392,7 +9392,7 @@
       "nse_symbol": "MONARCH",
       "yahoo_symbol": "MONARCH.NS",
       "status": "success",
-      "bars": 1240,
+      "bars": 1238,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -9432,7 +9432,7 @@
       "nse_symbol": "PSPPROJECT",
       "yahoo_symbol": "PSPPROJECT.NS",
       "status": "success",
-      "bars": 1789,
+      "bars": 1788,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -9442,7 +9442,7 @@
       "nse_symbol": "HEIDELBERG",
       "yahoo_symbol": "HEIDELBERG.NS",
       "status": "success",
-      "bars": 1797,
+      "bars": 1795,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -9452,7 +9452,7 @@
       "nse_symbol": "CARYSIL",
       "yahoo_symbol": "CARYSIL.NS",
       "status": "success",
-      "bars": 1949,
+      "bars": 1951,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -9472,7 +9472,7 @@
       "nse_symbol": "CARRARO",
       "yahoo_symbol": "CARRARO.NS",
       "status": "success",
-      "bars": 1799,
+      "bars": 1800,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -9512,7 +9512,7 @@
       "nse_symbol": "SANDHAR",
       "yahoo_symbol": "SANDHAR.NS",
       "status": "success",
-      "bars": 2433,
+      "bars": 2432,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -9522,7 +9522,7 @@
       "nse_symbol": "GANECOS",
       "yahoo_symbol": "GANECOS.NS",
       "status": "success",
-      "bars": 2036,
+      "bars": 2039,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -9542,7 +9542,7 @@
       "nse_symbol": "BLSE",
       "yahoo_symbol": "BLSE.NS",
       "status": "success",
-      "bars": 2002,
+      "bars": 2001,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -9552,7 +9552,7 @@
       "nse_symbol": "BALMLAWRIE",
       "yahoo_symbol": "BALMLAWRIE.NS",
       "status": "success",
-      "bars": 1815,
+      "bars": 1814,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -9562,7 +9562,7 @@
       "nse_symbol": "LUMINO",
       "yahoo_symbol": "LUMINO.NS",
       "status": "success",
-      "bars": 2614,
+      "bars": 2613,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -9612,7 +9612,7 @@
       "nse_symbol": "BBL",
       "yahoo_symbol": "BBL.NS",
       "status": "success",
-      "bars": 2238,
+      "bars": 2239,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -9632,7 +9632,7 @@
       "nse_symbol": "MUFIN",
       "yahoo_symbol": "MUFIN.NS",
       "status": "success",
-      "bars": 1967,
+      "bars": 1966,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -9662,7 +9662,7 @@
       "nse_symbol": "STOVEKRAFT",
       "yahoo_symbol": "STOVEKRAFT.NS",
       "status": "success",
-      "bars": 2151,
+      "bars": 2149,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -9672,7 +9672,7 @@
       "nse_symbol": "HUBTOWN",
       "yahoo_symbol": "HUBTOWN.NS",
       "status": "success",
-      "bars": 2087,
+      "bars": 2088,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -9682,7 +9682,7 @@
       "nse_symbol": "AJMERA",
       "yahoo_symbol": "AJMERA.NS",
       "status": "success",
-      "bars": 1828,
+      "bars": 1829,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -9692,7 +9692,7 @@
       "nse_symbol": "HIKAL",
       "yahoo_symbol": "HIKAL.NS",
       "status": "success",
-      "bars": 2209,
+      "bars": 2210,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -9722,7 +9722,7 @@
       "nse_symbol": "ARVSMART",
       "yahoo_symbol": "ARVSMART.NS",
       "status": "success",
-      "bars": 1370,
+      "bars": 1371,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -9742,7 +9742,7 @@
       "nse_symbol": "PROTEAN",
       "yahoo_symbol": "PROTEAN.NS",
       "status": "success",
-      "bars": 2469,
+      "bars": 2468,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -9752,7 +9752,7 @@
       "nse_symbol": "DRAGARWQ",
       "yahoo_symbol": "DRAGARWQ.NS",
       "status": "success",
-      "bars": 600,
+      "bars": 599,
       "earliest_timestamp": "2026-10-22T03:48:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -9762,7 +9762,7 @@
       "nse_symbol": "EFCIL",
       "yahoo_symbol": "EFCIL.NS",
       "status": "success",
-      "bars": 1481,
+      "bars": 1480,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -9782,7 +9782,7 @@
       "nse_symbol": "DBCORP",
       "yahoo_symbol": "DBCORP.NS",
       "status": "success",
-      "bars": 1816,
+      "bars": 1815,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -9792,7 +9792,7 @@
       "nse_symbol": "SEIL",
       "yahoo_symbol": "SEIL.NS",
       "status": "success",
-      "bars": 901,
+      "bars": 902,
       "earliest_timestamp": "2026-10-22T03:46:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -9812,7 +9812,7 @@
       "nse_symbol": "INDNIPPON",
       "yahoo_symbol": "INDNIPPON.NS",
       "status": "success",
-      "bars": 1563,
+      "bars": 1564,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -9822,7 +9822,7 @@
       "nse_symbol": "BHAGCHEM",
       "yahoo_symbol": "BHAGCHEM.NS",
       "status": "success",
-      "bars": 961,
+      "bars": 960,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -9832,7 +9832,7 @@
       "nse_symbol": "MARATHON",
       "yahoo_symbol": "MARATHON.NS",
       "status": "success",
-      "bars": 1563,
+      "bars": 1562,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
@@ -9852,7 +9852,7 @@
       "nse_symbol": "DDEVPLSTIK",
       "yahoo_symbol": "DDEVPLSTIK.NS",
       "status": "success",
-      "bars": 1300,
+      "bars": 1301,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -9872,7 +9872,7 @@
       "nse_symbol": "UEL",
       "yahoo_symbol": "UEL.NS",
       "status": "success",
-      "bars": 979,
+      "bars": 981,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -9882,7 +9882,7 @@
       "nse_symbol": "GIPCL",
       "yahoo_symbol": "GIPCL.NS",
       "status": "success",
-      "bars": 2153,
+      "bars": 2155,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -9892,7 +9892,7 @@
       "nse_symbol": "HGINFRA",
       "yahoo_symbol": "HGINFRA.NS",
       "status": "success",
-      "bars": 2165,
+      "bars": 2166,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -9912,7 +9912,7 @@
       "nse_symbol": "RAMCOIND",
       "yahoo_symbol": "RAMCOIND.NS",
       "status": "success",
-      "bars": 1392,
+      "bars": 1394,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -9942,7 +9942,7 @@
       "nse_symbol": "DOLPHIN",
       "yahoo_symbol": "DOLPHIN.NS",
       "status": "success",
-      "bars": 972,
+      "bars": 973,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -9952,7 +9952,7 @@
       "nse_symbol": "FLAIR",
       "yahoo_symbol": "FLAIR.NS",
       "status": "success",
-      "bars": 1091,
+      "bars": 1087,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -9962,7 +9962,7 @@
       "nse_symbol": "CRIZAC",
       "yahoo_symbol": "CRIZAC.NS",
       "status": "success",
-      "bars": 2256,
+      "bars": 2257,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -9982,7 +9982,7 @@
       "nse_symbol": "KMCSHIL",
       "yahoo_symbol": "KMCSHIL.NS",
       "status": "success",
-      "bars": 2146,
+      "bars": 2147,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T09:59:00Z",
       "error": null
@@ -10002,7 +10002,7 @@
       "nse_symbol": "FMGOETZE",
       "yahoo_symbol": "FMGOETZE.NS",
       "status": "success",
-      "bars": 1871,
+      "bars": 1868,
       "earliest_timestamp": "2026-10-22T03:45:00Z",
       "latest_timestamp": "2026-10-30T10:00:00Z",
       "error": null
