@@ -1,10 +1,10 @@
 {
-  "run_started_utc": "2026-11-14T03:26:53.109202+00:00",
-  "run_completed_utc": "2026-11-14T03:28:14.620302+00:00",
+  "run_started_utc": "2026-11-15T02:58:12.824980+00:00",
+  "run_completed_utc": "2026-11-15T02:59:32.907489+00:00",
   "requested_symbols": 1000,
   "successful_symbols": 1000,
   "failed_symbols": 0,
-  "total_bars": 2359227,
+  "total_bars": 2358698,
   "universe_method": "Current Screener top-stocks ranking sorted by market capitalization, intersected with the official NSE EQ-series symbol master.",
   "results": [
     {
@@ -7259,6 +7259,16 @@
     },
     {
       "rank": 726,
+      "nse_symbol": "PRSMJOHNSN",
+      "yahoo_symbol": "PRSMJOHNSN.NS",
+      "status": "success",
+      "bars": 2058,
+      "earliest_timestamp": "2026-11-04T03:45:00Z",
+      "latest_timestamp": "2026-11-13T10:00:00Z",
+      "error": null
+    },
+    {
+      "rank": 727,
       "nse_symbol": "BAJAJCON",
       "yahoo_symbol": "BAJAJCON.NS",
       "status": "success",
@@ -7268,7 +7278,7 @@
       "error": null
     },
     {
-      "rank": 727,
+      "rank": 728,
       "nse_symbol": "ACI",
       "yahoo_symbol": "ACI.NS",
       "status": "success",
@@ -7278,7 +7288,7 @@
       "error": null
     },
     {
-      "rank": 728,
+      "rank": 729,
       "nse_symbol": "FIEMIND",
       "yahoo_symbol": "FIEMIND.NS",
       "status": "success",
@@ -7288,7 +7298,7 @@
       "error": null
     },
     {
-      "rank": 729,
+      "rank": 730,
       "nse_symbol": "ROLEXRINGS",
       "yahoo_symbol": "ROLEXRINGS.NS",
       "status": "success",
@@ -7298,7 +7308,7 @@
       "error": null
     },
     {
-      "rank": 730,
+      "rank": 731,
       "nse_symbol": "GULFOILLUB",
       "yahoo_symbol": "GULFOILLUB.NS",
       "status": "success",
@@ -7308,7 +7318,7 @@
       "error": null
     },
     {
-      "rank": 731,
+      "rank": 732,
       "nse_symbol": "GOODLUCK",
       "yahoo_symbol": "GOODLUCK.NS",
       "status": "success",
@@ -7318,7 +7328,7 @@
       "error": null
     },
     {
-      "rank": 732,
+      "rank": 733,
       "nse_symbol": "GMMPFAUDLR",
       "yahoo_symbol": "GMMPFAUDLR.NS",
       "status": "success",
@@ -7328,7 +7338,7 @@
       "error": null
     },
     {
-      "rank": 733,
+      "rank": 734,
       "nse_symbol": "SENCO",
       "yahoo_symbol": "SENCO.NS",
       "status": "success",
@@ -7338,7 +7348,7 @@
       "error": null
     },
     {
-      "rank": 734,
+      "rank": 735,
       "nse_symbol": "TRIVENI",
       "yahoo_symbol": "TRIVENI.NS",
       "status": "success",
@@ -7348,7 +7358,7 @@
       "error": null
     },
     {
-      "rank": 735,
+      "rank": 736,
       "nse_symbol": "SHARDAMOTR",
       "yahoo_symbol": "SHARDAMOTR.NS",
       "status": "success",
@@ -7358,7 +7368,7 @@
       "error": null
     },
     {
-      "rank": 736,
+      "rank": 737,
       "nse_symbol": "MSTCLTD",
       "yahoo_symbol": "MSTCLTD.NS",
       "status": "success",
@@ -7368,7 +7378,7 @@
       "error": null
     },
     {
-      "rank": 737,
+      "rank": 738,
       "nse_symbol": "STYLAMIND",
       "yahoo_symbol": "STYLAMIND.NS",
       "status": "success",
@@ -7378,7 +7388,7 @@
       "error": null
     },
     {
-      "rank": 738,
+      "rank": 739,
       "nse_symbol": "RAIN",
       "yahoo_symbol": "RAIN.NS",
       "status": "success",
@@ -7388,7 +7398,7 @@
       "error": null
     },
     {
-      "rank": 739,
+      "rank": 740,
       "nse_symbol": "STYL",
       "yahoo_symbol": "STYL.NS",
       "status": "success",
@@ -7398,7 +7408,7 @@
       "error": null
     },
     {
-      "rank": 740,
+      "rank": 741,
       "nse_symbol": "MOREPENLAB",
       "yahoo_symbol": "MOREPENLAB.NS",
       "status": "success",
@@ -7408,7 +7418,7 @@
       "error": null
     },
     {
-      "rank": 741,
+      "rank": 742,
       "nse_symbol": "PICCADIL",
       "yahoo_symbol": "PICCADIL.NS",
       "status": "success",
@@ -7418,7 +7428,7 @@
       "error": null
     },
     {
-      "rank": 742,
+      "rank": 743,
       "nse_symbol": "EMIL",
       "yahoo_symbol": "EMIL.NS",
       "status": "success",
@@ -7428,7 +7438,7 @@
       "error": null
     },
     {
-      "rank": 743,
+      "rank": 744,
       "nse_symbol": "SENORES",
       "yahoo_symbol": "SENORES.NS",
       "status": "success",
@@ -7438,7 +7448,7 @@
       "error": null
     },
     {
-      "rank": 744,
+      "rank": 745,
       "nse_symbol": "SIS",
       "yahoo_symbol": "SIS.NS",
       "status": "success",
@@ -7448,7 +7458,7 @@
       "error": null
     },
     {
-      "rank": 745,
+      "rank": 746,
       "nse_symbol": "TVSSCS",
       "yahoo_symbol": "TVSSCS.NS",
       "status": "success",
@@ -7458,7 +7468,7 @@
       "error": null
     },
     {
-      "rank": 746,
+      "rank": 747,
       "nse_symbol": "LGBBROSLTD",
       "yahoo_symbol": "LGBBROSLTD.NS",
       "status": "success",
@@ -7468,7 +7478,7 @@
       "error": null
     },
     {
-      "rank": 747,
+      "rank": 748,
       "nse_symbol": "LCL",
       "yahoo_symbol": "LCL.NS",
       "status": "success",
@@ -7478,7 +7488,7 @@
       "error": null
     },
     {
-      "rank": 748,
+      "rank": 749,
       "nse_symbol": "GREENLAM",
       "yahoo_symbol": "GREENLAM.NS",
       "status": "success",
@@ -7488,7 +7498,7 @@
       "error": null
     },
     {
-      "rank": 749,
+      "rank": 750,
       "nse_symbol": "LUMAXIND",
       "yahoo_symbol": "LUMAXIND.NS",
       "status": "success",
@@ -7498,7 +7508,7 @@
       "error": null
     },
     {
-      "rank": 750,
+      "rank": 751,
       "nse_symbol": "GANESHHOU",
       "yahoo_symbol": "GANESHHOU.NS",
       "status": "success",
@@ -7508,7 +7518,7 @@
       "error": null
     },
     {
-      "rank": 751,
+      "rank": 752,
       "nse_symbol": "ORCHPHARMA",
       "yahoo_symbol": "ORCHPHARMA.NS",
       "status": "success",
@@ -7518,7 +7528,7 @@
       "error": null
     },
     {
-      "rank": 752,
+      "rank": 753,
       "nse_symbol": "CSBBANK",
       "yahoo_symbol": "CSBBANK.NS",
       "status": "success",
@@ -7528,7 +7538,7 @@
       "error": null
     },
     {
-      "rank": 753,
+      "rank": 754,
       "nse_symbol": "GREAVESCOT",
       "yahoo_symbol": "GREAVESCOT.NS",
       "status": "success",
@@ -7538,7 +7548,7 @@
       "error": null
     },
     {
-      "rank": 754,
+      "rank": 755,
       "nse_symbol": "VIKRAMSOLR",
       "yahoo_symbol": "VIKRAMSOLR.NS",
       "status": "success",
@@ -7548,7 +7558,7 @@
       "error": null
     },
     {
-      "rank": 755,
+      "rank": 756,
       "nse_symbol": "THOMASCOOK",
       "yahoo_symbol": "THOMASCOOK.NS",
       "status": "success",
@@ -7558,7 +7568,7 @@
       "error": null
     },
     {
-      "rank": 756,
+      "rank": 757,
       "nse_symbol": "KDDL",
       "yahoo_symbol": "KDDL.NS",
       "status": "success",
@@ -7568,7 +7578,7 @@
       "error": null
     },
     {
-      "rank": 757,
+      "rank": 758,
       "nse_symbol": "KALPATARU",
       "yahoo_symbol": "KALPATARU.NS",
       "status": "success",
@@ -7578,7 +7588,7 @@
       "error": null
     },
     {
-      "rank": 758,
+      "rank": 759,
       "nse_symbol": "QUESS",
       "yahoo_symbol": "QUESS.NS",
       "status": "success",
@@ -7588,7 +7598,7 @@
       "error": null
     },
     {
-      "rank": 759,
+      "rank": 760,
       "nse_symbol": "ARTEMISMED",
       "yahoo_symbol": "ARTEMISMED.NS",
       "status": "success",
@@ -7598,7 +7608,7 @@
       "error": null
     },
     {
-      "rank": 760,
+      "rank": 761,
       "nse_symbol": "SUPRIYA",
       "yahoo_symbol": "SUPRIYA.NS",
       "status": "success",
@@ -7608,7 +7618,7 @@
       "error": null
     },
     {
-      "rank": 761,
+      "rank": 762,
       "nse_symbol": "GUJTHEM",
       "yahoo_symbol": "GUJTHEM.NS",
       "status": "success",
@@ -7618,7 +7628,7 @@
       "error": null
     },
     {
-      "rank": 762,
+      "rank": 763,
       "nse_symbol": "SANATHAN",
       "yahoo_symbol": "SANATHAN.NS",
       "status": "success",
@@ -7628,7 +7638,7 @@
       "error": null
     },
     {
-      "rank": 763,
+      "rank": 764,
       "nse_symbol": "GOKEX",
       "yahoo_symbol": "GOKEX.NS",
       "status": "success",
@@ -7638,7 +7648,7 @@
       "error": null
     },
     {
-      "rank": 764,
+      "rank": 765,
       "nse_symbol": "VADILALIND",
       "yahoo_symbol": "VADILALIND.NS",
       "status": "success",
@@ -7648,7 +7658,7 @@
       "error": null
     },
     {
-      "rank": 765,
+      "rank": 766,
       "nse_symbol": "INOXGREEN",
       "yahoo_symbol": "INOXGREEN.NS",
       "status": "success",
@@ -7658,7 +7668,7 @@
       "error": null
     },
     {
-      "rank": 766,
+      "rank": 767,
       "nse_symbol": "RAMRAT",
       "yahoo_symbol": "RAMRAT.NS",
       "status": "success",
@@ -7668,7 +7678,7 @@
       "error": null
     },
     {
-      "rank": 767,
+      "rank": 768,
       "nse_symbol": "MAPMYINDIA",
       "yahoo_symbol": "MAPMYINDIA.NS",
       "status": "success",
@@ -7678,7 +7688,7 @@
       "error": null
     },
     {
-      "rank": 768,
+      "rank": 769,
       "nse_symbol": "SAMBHV",
       "yahoo_symbol": "SAMBHV.NS",
       "status": "success",
@@ -7688,7 +7698,7 @@
       "error": null
     },
     {
-      "rank": 769,
+      "rank": 770,
       "nse_symbol": "CMRGREEN",
       "yahoo_symbol": "CMRGREEN.NS",
       "status": "success",
@@ -7698,7 +7708,7 @@
       "error": null
     },
     {
-      "rank": 770,
+      "rank": 771,
       "nse_symbol": "PURVA",
       "yahoo_symbol": "PURVA.NS",
       "status": "success",
@@ -7708,7 +7718,7 @@
       "error": null
     },
     {
-      "rank": 771,
+      "rank": 772,
       "nse_symbol": "MASFIN",
       "yahoo_symbol": "MASFIN.NS",
       "status": "success",
@@ -7718,7 +7728,7 @@
       "error": null
     },
     {
-      "rank": 772,
+      "rank": 773,
       "nse_symbol": "HCC",
       "yahoo_symbol": "HCC.NS",
       "status": "success",
@@ -7728,7 +7738,7 @@
       "error": null
     },
     {
-      "rank": 773,
+      "rank": 774,
       "nse_symbol": "BOSCH-HCIL",
       "yahoo_symbol": "BOSCH-HCIL.NS",
       "status": "success",
@@ -7738,7 +7748,7 @@
       "error": null
     },
     {
-      "rank": 774,
+      "rank": 775,
       "nse_symbol": "CARERATING",
       "yahoo_symbol": "CARERATING.NS",
       "status": "success",
@@ -7748,7 +7758,7 @@
       "error": null
     },
     {
-      "rank": 775,
+      "rank": 776,
       "nse_symbol": "HAPPSTMNDS",
       "yahoo_symbol": "HAPPSTMNDS.NS",
       "status": "success",
@@ -7758,7 +7768,7 @@
       "error": null
     },
     {
-      "rank": 776,
+      "rank": 777,
       "nse_symbol": "SMSPHARMA",
       "yahoo_symbol": "SMSPHARMA.NS",
       "status": "success",
@@ -7768,7 +7778,7 @@
       "error": null
     },
     {
-      "rank": 777,
+      "rank": 778,
       "nse_symbol": "FOSECOIND",
       "yahoo_symbol": "FOSECOIND.NS",
       "status": "success",
@@ -7778,7 +7788,7 @@
       "error": null
     },
     {
-      "rank": 778,
+      "rank": 779,
       "nse_symbol": "GUFICBIO",
       "yahoo_symbol": "GUFICBIO.NS",
       "status": "success",
@@ -7788,7 +7798,7 @@
       "error": null
     },
     {
-      "rank": 779,
+      "rank": 780,
       "nse_symbol": "GOLDIAM",
       "yahoo_symbol": "GOLDIAM.NS",
       "status": "success",
@@ -7798,7 +7808,7 @@
       "error": null
     },
     {
-      "rank": 780,
+      "rank": 781,
       "nse_symbol": "SHAKTIPUMP",
       "yahoo_symbol": "SHAKTIPUMP.NS",
       "status": "success",
@@ -7808,7 +7818,7 @@
       "error": null
     },
     {
-      "rank": 781,
+      "rank": 782,
       "nse_symbol": "MASTEK",
       "yahoo_symbol": "MASTEK.NS",
       "status": "success",
@@ -7818,7 +7828,7 @@
       "error": null
     },
     {
-      "rank": 782,
+      "rank": 783,
       "nse_symbol": "IONEXCHANG",
       "yahoo_symbol": "IONEXCHANG.NS",
       "status": "success",
@@ -7828,7 +7838,7 @@
       "error": null
     },
     {
-      "rank": 783,
+      "rank": 784,
       "nse_symbol": "PRAJIND",
       "yahoo_symbol": "PRAJIND.NS",
       "status": "success",
@@ -7838,7 +7848,7 @@
       "error": null
     },
     {
-      "rank": 784,
+      "rank": 785,
       "nse_symbol": "SURYAROSNI",
       "yahoo_symbol": "SURYAROSNI.NS",
       "status": "success",
@@ -7848,7 +7858,7 @@
       "error": null
     },
     {
-      "rank": 785,
+      "rank": 786,
       "nse_symbol": "AARTIDRUGS",
       "yahoo_symbol": "AARTIDRUGS.NS",
       "status": "success",
@@ -7858,7 +7868,7 @@
       "error": null
     },
     {
-      "rank": 786,
+      "rank": 787,
       "nse_symbol": "BANSALWIRE",
       "yahoo_symbol": "BANSALWIRE.NS",
       "status": "success",
@@ -7868,7 +7878,7 @@
       "error": null
     },
     {
-      "rank": 787,
+      "rank": 788,
       "nse_symbol": "SGFIN",
       "yahoo_symbol": "SGFIN.NS",
       "status": "success",
@@ -7878,7 +7888,7 @@
       "error": null
     },
     {
-      "rank": 788,
+      "rank": 789,
       "nse_symbol": "INDIGOPNTS",
       "yahoo_symbol": "INDIGOPNTS.NS",
       "status": "success",
@@ -7888,7 +7898,7 @@
       "error": null
     },
     {
-      "rank": 789,
+      "rank": 790,
       "nse_symbol": "WSTCSTPAPR",
       "yahoo_symbol": "WSTCSTPAPR.NS",
       "status": "success",
@@ -7898,7 +7908,7 @@
       "error": null
     },
     {
-      "rank": 790,
+      "rank": 791,
       "nse_symbol": "ARVINDFASN",
       "yahoo_symbol": "ARVINDFASN.NS",
       "status": "success",
@@ -7908,7 +7918,7 @@
       "error": null
     },
     {
-      "rank": 791,
+      "rank": 792,
       "nse_symbol": "CRAMC",
       "yahoo_symbol": "CRAMC.NS",
       "status": "success",
@@ -7918,7 +7928,7 @@
       "error": null
     },
     {
-      "rank": 792,
+      "rank": 793,
       "nse_symbol": "RPTECH",
       "yahoo_symbol": "RPTECH.NS",
       "status": "success",
@@ -7928,7 +7938,7 @@
       "error": null
     },
     {
-      "rank": 793,
+      "rank": 794,
       "nse_symbol": "SOTL",
       "yahoo_symbol": "SOTL.NS",
       "status": "success",
@@ -7938,7 +7948,7 @@
       "error": null
     },
     {
-      "rank": 794,
+      "rank": 795,
       "nse_symbol": "IFBIND",
       "yahoo_symbol": "IFBIND.NS",
       "status": "success",
@@ -7948,7 +7958,7 @@
       "error": null
     },
     {
-      "rank": 795,
+      "rank": 796,
       "nse_symbol": "NORTHARC",
       "yahoo_symbol": "NORTHARC.NS",
       "status": "success",
@@ -7958,7 +7968,7 @@
       "error": null
     },
     {
-      "rank": 796,
+      "rank": 797,
       "nse_symbol": "SUNTECK",
       "yahoo_symbol": "SUNTECK.NS",
       "status": "success",
@@ -7968,7 +7978,7 @@
       "error": null
     },
     {
-      "rank": 797,
+      "rank": 798,
       "nse_symbol": "RUSTOMJEE",
       "yahoo_symbol": "RUSTOMJEE.NS",
       "status": "success",
@@ -7978,7 +7988,7 @@
       "error": null
     },
     {
-      "rank": 798,
+      "rank": 799,
       "nse_symbol": "TEXRAIL",
       "yahoo_symbol": "TEXRAIL.NS",
       "status": "success",
@@ -7988,7 +7998,7 @@
       "error": null
     },
     {
-      "rank": 799,
+      "rank": 800,
       "nse_symbol": "AGI",
       "yahoo_symbol": "AGI.NS",
       "status": "success",
@@ -7998,7 +8008,7 @@
       "error": null
     },
     {
-      "rank": 800,
+      "rank": 801,
       "nse_symbol": "TEMPSENS",
       "yahoo_symbol": "TEMPSENS.NS",
       "status": "success",
@@ -8008,7 +8018,7 @@
       "error": null
     },
     {
-      "rank": 801,
+      "rank": 802,
       "nse_symbol": "JUNIPER",
       "yahoo_symbol": "JUNIPER.NS",
       "status": "success",
@@ -8018,7 +8028,7 @@
       "error": null
     },
     {
-      "rank": 802,
+      "rank": 803,
       "nse_symbol": "MANINFRA",
       "yahoo_symbol": "MANINFRA.NS",
       "status": "success",
@@ -8028,7 +8038,7 @@
       "error": null
     },
     {
-      "rank": 803,
+      "rank": 804,
       "nse_symbol": "DPABHUSHAN",
       "yahoo_symbol": "DPABHUSHAN.NS",
       "status": "success",
@@ -8038,7 +8048,7 @@
       "error": null
     },
     {
-      "rank": 804,
+      "rank": 805,
       "nse_symbol": "PILANIINVS",
       "yahoo_symbol": "PILANIINVS.NS",
       "status": "success",
@@ -8048,7 +8058,7 @@
       "error": null
     },
     {
-      "rank": 805,
+      "rank": 806,
       "nse_symbol": "SAATVIKGL",
       "yahoo_symbol": "SAATVIKGL.NS",
       "status": "success",
@@ -8058,7 +8068,7 @@
       "error": null
     },
     {
-      "rank": 806,
+      "rank": 807,
       "nse_symbol": "WAKEFIT",
       "yahoo_symbol": "WAKEFIT.NS",
       "status": "success",
@@ -8068,7 +8078,7 @@
       "error": null
     },
     {
-      "rank": 807,
+      "rank": 808,
       "nse_symbol": "FILATEX",
       "yahoo_symbol": "FILATEX.NS",
       "status": "success",
@@ -8078,7 +8088,7 @@
       "error": null
     },
     {
-      "rank": 808,
+      "rank": 809,
       "nse_symbol": "MOIL",
       "yahoo_symbol": "MOIL.NS",
       "status": "success",
@@ -8088,7 +8098,7 @@
       "error": null
     },
     {
-      "rank": 809,
+      "rank": 810,
       "nse_symbol": "UFLEX",
       "yahoo_symbol": "UFLEX.NS",
       "status": "success",
@@ -8098,7 +8108,7 @@
       "error": null
     },
     {
-      "rank": 810,
+      "rank": 811,
       "nse_symbol": "YASHO",
       "yahoo_symbol": "YASHO.NS",
       "status": "success",
@@ -8108,7 +8118,7 @@
       "error": null
     },
     {
-      "rank": 811,
+      "rank": 812,
       "nse_symbol": "HAWKINCOOK",
       "yahoo_symbol": "HAWKINCOOK.NS",
       "status": "success",
@@ -8118,7 +8128,7 @@
       "error": null
     },
     {
-      "rank": 812,
+      "rank": 813,
       "nse_symbol": "JSFB",
       "yahoo_symbol": "JSFB.NS",
       "status": "success",
@@ -8128,7 +8138,7 @@
       "error": null
     },
     {
-      "rank": 813,
+      "rank": 814,
       "nse_symbol": "LXCHEM",
       "yahoo_symbol": "LXCHEM.NS",
       "status": "success",
@@ -8138,7 +8148,7 @@
       "error": null
     },
     {
-      "rank": 814,
+      "rank": 815,
       "nse_symbol": "BAJAJHIND",
       "yahoo_symbol": "BAJAJHIND.NS",
       "status": "success",
@@ -8148,7 +8158,7 @@
       "error": null
     },
     {
-      "rank": 815,
+      "rank": 816,
       "nse_symbol": "AVANTEL",
       "yahoo_symbol": "AVANTEL.NS",
       "status": "success",
@@ -8158,7 +8168,7 @@
       "error": null
     },
     {
-      "rank": 816,
+      "rank": 817,
       "nse_symbol": "CCAVENUE",
       "yahoo_symbol": "CCAVENUE.NS",
       "status": "success",
@@ -8168,7 +8178,7 @@
       "error": null
     },
     {
-      "rank": 817,
+      "rank": 818,
       "nse_symbol": "ICRA",
       "yahoo_symbol": "ICRA.NS",
       "status": "success",
@@ -8178,7 +8188,7 @@
       "error": null
     },
     {
-      "rank": 818,
+      "rank": 819,
       "nse_symbol": "LATENTVIEW",
       "yahoo_symbol": "LATENTVIEW.NS",
       "status": "success",
@@ -8188,7 +8198,7 @@
       "error": null
     },
     {
-      "rank": 819,
+      "rank": 820,
       "nse_symbol": "ELECTCAST",
       "yahoo_symbol": "ELECTCAST.NS",
       "status": "success",
@@ -8198,7 +8208,7 @@
       "error": null
     },
     {
-      "rank": 820,
+      "rank": 821,
       "nse_symbol": "VENUSPIPES",
       "yahoo_symbol": "VENUSPIPES.NS",
       "status": "success",
@@ -8208,7 +8218,7 @@
       "error": null
     },
     {
-      "rank": 821,
+      "rank": 822,
       "nse_symbol": "DATAMATICS",
       "yahoo_symbol": "DATAMATICS.NS",
       "status": "success",
@@ -8218,7 +8228,7 @@
       "error": null
     },
     {
-      "rank": 822,
+      "rank": 823,
       "nse_symbol": "MAHLOG",
       "yahoo_symbol": "MAHLOG.NS",
       "status": "success",
@@ -8228,7 +8238,7 @@
       "error": null
     },
     {
-      "rank": 823,
+      "rank": 824,
       "nse_symbol": "JSLL",
       "yahoo_symbol": "JSLL.NS",
       "status": "success",
@@ -8238,7 +8248,7 @@
       "error": null
     },
     {
-      "rank": 824,
+      "rank": 825,
       "nse_symbol": "SWARAJENG",
       "yahoo_symbol": "SWARAJENG.NS",
       "status": "success",
@@ -8248,7 +8258,7 @@
       "error": null
     },
     {
-      "rank": 825,
+      "rank": 826,
       "nse_symbol": "ORIENTELEC",
       "yahoo_symbol": "ORIENTELEC.NS",
       "status": "success",
@@ -8258,7 +8268,7 @@
       "error": null
     },
     {
-      "rank": 826,
+      "rank": 827,
       "nse_symbol": "RPGLIFE",
       "yahoo_symbol": "RPGLIFE.NS",
       "status": "success",
@@ -8268,7 +8278,7 @@
       "error": null
     },
     {
-      "rank": 827,
+      "rank": 828,
       "nse_symbol": "HARSHA",
       "yahoo_symbol": "HARSHA.NS",
       "status": "success",
@@ -8278,7 +8288,7 @@
       "error": null
     },
     {
-      "rank": 828,
+      "rank": 829,
       "nse_symbol": "TBZ",
       "yahoo_symbol": "TBZ.NS",
       "status": "success",
@@ -8288,7 +8298,7 @@
       "error": null
     },
     {
-      "rank": 829,
+      "rank": 830,
       "nse_symbol": "UNIVCABLES",
       "yahoo_symbol": "UNIVCABLES.NS",
       "status": "success",
@@ -8298,7 +8308,7 @@
       "error": null
     },
     {
-      "rank": 830,
+      "rank": 831,
       "nse_symbol": "PARAGMILK",
       "yahoo_symbol": "PARAGMILK.NS",
       "status": "success",
@@ -8308,7 +8318,7 @@
       "error": null
     },
     {
-      "rank": 831,
+      "rank": 832,
       "nse_symbol": "NETWORK18",
       "yahoo_symbol": "NETWORK18.NS",
       "status": "success",
@@ -8318,7 +8328,7 @@
       "error": null
     },
     {
-      "rank": 832,
+      "rank": 833,
       "nse_symbol": "DEEPINDS",
       "yahoo_symbol": "DEEPINDS.NS",
       "status": "success",
@@ -8328,7 +8338,7 @@
       "error": null
     },
     {
-      "rank": 833,
+      "rank": 834,
       "nse_symbol": "GVPIL",
       "yahoo_symbol": "GVPIL.NS",
       "status": "success",
@@ -8338,7 +8348,7 @@
       "error": null
     },
     {
-      "rank": 834,
+      "rank": 835,
       "nse_symbol": "NRBBEARING",
       "yahoo_symbol": "NRBBEARING.NS",
       "status": "success",
@@ -8348,7 +8358,7 @@
       "error": null
     },
     {
-      "rank": 835,
+      "rank": 836,
       "nse_symbol": "ELLEN",
       "yahoo_symbol": "ELLEN.NS",
       "status": "success",
@@ -8358,7 +8368,7 @@
       "error": null
     },
     {
-      "rank": 836,
+      "rank": 837,
       "nse_symbol": "SEAMECLTD",
       "yahoo_symbol": "SEAMECLTD.NS",
       "status": "success",
@@ -8368,7 +8378,7 @@
       "error": null
     },
     {
-      "rank": 837,
+      "rank": 838,
       "nse_symbol": "PTC",
       "yahoo_symbol": "PTC.NS",
       "status": "success",
@@ -8378,7 +8388,7 @@
       "error": null
     },
     {
-      "rank": 838,
+      "rank": 839,
       "nse_symbol": "CAPILLARY",
       "yahoo_symbol": "CAPILLARY.NS",
       "status": "success",
@@ -8388,7 +8398,7 @@
       "error": null
     },
     {
-      "rank": 839,
+      "rank": 840,
       "nse_symbol": "GHCL",
       "yahoo_symbol": "GHCL.NS",
       "status": "success",
@@ -8398,7 +8408,7 @@
       "error": null
     },
     {
-      "rank": 840,
+      "rank": 841,
       "nse_symbol": "EPIGRAL",
       "yahoo_symbol": "EPIGRAL.NS",
       "status": "success",
@@ -8408,7 +8418,7 @@
       "error": null
     },
     {
-      "rank": 841,
+      "rank": 842,
       "nse_symbol": "TCPLPACK",
       "yahoo_symbol": "TCPLPACK.NS",
       "status": "success",
@@ -8418,7 +8428,7 @@
       "error": null
     },
     {
-      "rank": 842,
+      "rank": 843,
       "nse_symbol": "SHAREINDIA",
       "yahoo_symbol": "SHAREINDIA.NS",
       "status": "success",
@@ -8428,7 +8438,7 @@
       "error": null
     },
     {
-      "rank": 843,
+      "rank": 844,
       "nse_symbol": "SHILCTECH",
       "yahoo_symbol": "SHILCTECH.NS",
       "status": "success",
@@ -8438,7 +8448,7 @@
       "error": null
     },
     {
-      "rank": 844,
+      "rank": 845,
       "nse_symbol": "SHANTIGEAR",
       "yahoo_symbol": "SHANTIGEAR.NS",
       "status": "success",
@@ -8448,7 +8458,7 @@
       "error": null
     },
     {
-      "rank": 845,
+      "rank": 846,
       "nse_symbol": "DHANUKA",
       "yahoo_symbol": "DHANUKA.NS",
       "status": "success",
@@ -8458,7 +8468,7 @@
       "error": null
     },
     {
-      "rank": 846,
+      "rank": 847,
       "nse_symbol": "MHRIL",
       "yahoo_symbol": "MHRIL.NS",
       "status": "success",
@@ -8468,7 +8478,7 @@
       "error": null
     },
     {
-      "rank": 847,
+      "rank": 848,
       "nse_symbol": "SUBROS",
       "yahoo_symbol": "SUBROS.NS",
       "status": "success",
@@ -8478,7 +8488,7 @@
       "error": null
     },
     {
-      "rank": 848,
+      "rank": 849,
       "nse_symbol": "DEEDEV",
       "yahoo_symbol": "DEEDEV.NS",
       "status": "success",
@@ -8488,7 +8498,7 @@
       "error": null
     },
     {
-      "rank": 849,
+      "rank": 850,
       "nse_symbol": "ASHAPURMIN",
       "yahoo_symbol": "ASHAPURMIN.NS",
       "status": "success",
@@ -8498,7 +8508,7 @@
       "error": null
     },
     {
-      "rank": 850,
+      "rank": 851,
       "nse_symbol": "KPL",
       "yahoo_symbol": "KPL.NS",
       "status": "success",
@@ -8508,7 +8518,7 @@
       "error": null
     },
     {
-      "rank": 851,
+      "rank": 852,
       "nse_symbol": "AGIIL",
       "yahoo_symbol": "AGIIL.NS",
       "status": "success",
@@ -8518,7 +8528,7 @@
       "error": null
     },
     {
-      "rank": 852,
+      "rank": 853,
       "nse_symbol": "DALMIASUG",
       "yahoo_symbol": "DALMIASUG.NS",
       "status": "success",
@@ -8528,7 +8538,7 @@
       "error": null
     },
     {
-      "rank": 853,
+      "rank": 854,
       "nse_symbol": "TATVA",
       "yahoo_symbol": "TATVA.NS",
       "status": "success",
@@ -8538,7 +8548,7 @@
       "error": null
     },
     {
-      "rank": 854,
+      "rank": 855,
       "nse_symbol": "AYE",
       "yahoo_symbol": "AYE.NS",
       "status": "success",
@@ -8548,7 +8558,7 @@
       "error": null
     },
     {
-      "rank": 855,
+      "rank": 856,
       "nse_symbol": "BANARISUG",
       "yahoo_symbol": "BANARISUG.NS",
       "status": "success",
@@ -8558,7 +8568,7 @@
       "error": null
     },
     {
-      "rank": 856,
+      "rank": 857,
       "nse_symbol": "STEELCAS",
       "yahoo_symbol": "STEELCAS.NS",
       "status": "success",
@@ -8568,7 +8578,7 @@
       "error": null
     },
     {
-      "rank": 857,
+      "rank": 858,
       "nse_symbol": "RAYMONDREL",
       "yahoo_symbol": "RAYMONDREL.NS",
       "status": "success",
@@ -8578,7 +8588,7 @@
       "error": null
     },
     {
-      "rank": 858,
+      "rank": 859,
       "nse_symbol": "MPSLTD",
       "yahoo_symbol": "MPSLTD.NS",
       "status": "success",
@@ -8588,7 +8598,7 @@
       "error": null
     },
     {
-      "rank": 859,
+      "rank": 860,
       "nse_symbol": "KSL",
       "yahoo_symbol": "KSL.NS",
       "status": "success",
@@ -8598,7 +8608,7 @@
       "error": null
     },
     {
-      "rank": 860,
+      "rank": 861,
       "nse_symbol": "SINDHUTRAD",
       "yahoo_symbol": "SINDHUTRAD.NS",
       "status": "success",
@@ -8608,7 +8618,7 @@
       "error": null
     },
     {
-      "rank": 861,
+      "rank": 862,
       "nse_symbol": "NITINSPIN",
       "yahoo_symbol": "NITINSPIN.NS",
       "status": "success",
@@ -8618,7 +8628,7 @@
       "error": null
     },
     {
-      "rank": 862,
+      "rank": 863,
       "nse_symbol": "SYMPHONY",
       "yahoo_symbol": "SYMPHONY.NS",
       "status": "success",
@@ -8628,7 +8638,7 @@
       "error": null
     },
     {
-      "rank": 863,
+      "rank": 864,
       "nse_symbol": "RTNPOWER",
       "yahoo_symbol": "RTNPOWER.NS",
       "status": "success",
@@ -8638,7 +8648,7 @@
       "error": null
     },
     {
-      "rank": 864,
+      "rank": 865,
       "nse_symbol": "KSCL",
       "yahoo_symbol": "KSCL.NS",
       "status": "success",
@@ -8648,7 +8658,7 @@
       "error": null
     },
     {
-      "rank": 865,
+      "rank": 866,
       "nse_symbol": "TARC",
       "yahoo_symbol": "TARC.NS",
       "status": "success",
@@ -8658,7 +8668,7 @@
       "error": null
     },
     {
-      "rank": 866,
+      "rank": 867,
       "nse_symbol": "BOROLTD",
       "yahoo_symbol": "BOROLTD.NS",
       "status": "success",
@@ -8668,7 +8678,7 @@
       "error": null
     },
     {
-      "rank": 867,
+      "rank": 868,
       "nse_symbol": "VISHNU",
       "yahoo_symbol": "VISHNU.NS",
       "status": "success",
@@ -8678,7 +8688,7 @@
       "error": null
     },
     {
-      "rank": 868,
+      "rank": 869,
       "nse_symbol": "SAMHI",
       "yahoo_symbol": "SAMHI.NS",
       "status": "success",
@@ -8688,7 +8698,7 @@
       "error": null
     },
     {
-      "rank": 869,
+      "rank": 870,
       "nse_symbol": "RALLIS",
       "yahoo_symbol": "RALLIS.NS",
       "status": "success",
@@ -8698,7 +8708,7 @@
       "error": null
     },
     {
-      "rank": 870,
+      "rank": 871,
       "nse_symbol": "NPST",
       "yahoo_symbol": "NPST.NS",
       "status": "success",
@@ -8708,7 +8718,7 @@
       "error": null
     },
     {
-      "rank": 871,
+      "rank": 872,
       "nse_symbol": "VSSL",
       "yahoo_symbol": "VSSL.NS",
       "status": "success",
@@ -8718,7 +8728,7 @@
       "error": null
     },
     {
-      "rank": 872,
+      "rank": 873,
       "nse_symbol": "SHUKRAPHAR",
       "yahoo_symbol": "SHUKRAPHAR.NS",
       "status": "success",
@@ -8728,7 +8738,7 @@
       "error": null
     },
     {
-      "rank": 873,
+      "rank": 874,
       "nse_symbol": "WPIL",
       "yahoo_symbol": "WPIL.NS",
       "status": "success",
@@ -8738,7 +8748,7 @@
       "error": null
     },
     {
-      "rank": 874,
+      "rank": 875,
       "nse_symbol": "SWSOLAR",
       "yahoo_symbol": "SWSOLAR.NS",
       "status": "success",
@@ -8748,7 +8758,7 @@
       "error": null
     },
     {
-      "rank": 875,
+      "rank": 876,
       "nse_symbol": "RESPONIND",
       "yahoo_symbol": "RESPONIND.NS",
       "status": "success",
@@ -8758,7 +8768,7 @@
       "error": null
     },
     {
-      "rank": 876,
+      "rank": 877,
       "nse_symbol": "MIDWESTLTD",
       "yahoo_symbol": "MIDWESTLTD.NS",
       "status": "success",
@@ -8768,7 +8778,7 @@
       "error": null
     },
     {
-      "rank": 877,
+      "rank": 878,
       "nse_symbol": "HERITGFOOD",
       "yahoo_symbol": "HERITGFOOD.NS",
       "status": "success",
@@ -8778,7 +8788,7 @@
       "error": null
     },
     {
-      "rank": 878,
+      "rank": 879,
       "nse_symbol": "JINDWORLD",
       "yahoo_symbol": "JINDWORLD.NS",
       "status": "success",
@@ -8788,7 +8798,7 @@
       "error": null
     },
     {
-      "rank": 879,
+      "rank": 880,
       "nse_symbol": "LUXIND",
       "yahoo_symbol": "LUXIND.NS",
       "status": "success",
@@ -8798,7 +8808,7 @@
       "error": null
     },
     {
-      "rank": 880,
+      "rank": 881,
       "nse_symbol": "STYLEBAAZA",
       "yahoo_symbol": "STYLEBAAZA.NS",
       "status": "success",
@@ -8808,7 +8818,7 @@
       "error": null
     },
     {
-      "rank": 881,
+      "rank": 882,
       "nse_symbol": "ASHIANA",
       "yahoo_symbol": "ASHIANA.NS",
       "status": "success",
@@ -8818,7 +8828,7 @@
       "error": null
     },
     {
-      "rank": 882,
+      "rank": 883,
       "nse_symbol": "KIRLOSIND",
       "yahoo_symbol": "KIRLOSIND.NS",
       "status": "success",
@@ -8828,7 +8838,7 @@
       "error": null
     },
     {
-      "rank": 883,
+      "rank": 884,
       "nse_symbol": "AHLUCONT",
       "yahoo_symbol": "AHLUCONT.NS",
       "status": "success",
@@ -8838,7 +8848,7 @@
       "error": null
     },
     {
-      "rank": 884,
+      "rank": 885,
       "nse_symbol": "UNICHEMLAB",
       "yahoo_symbol": "UNICHEMLAB.NS",
       "status": "success",
@@ -8848,7 +8858,7 @@
       "error": null
     },
     {
-      "rank": 885,
+      "rank": 886,
       "nse_symbol": "PITTIENG",
       "yahoo_symbol": "PITTIENG.NS",
       "status": "success",
@@ -8858,7 +8868,7 @@
       "error": null
     },
     {
-      "rank": 886,
+      "rank": 887,
       "nse_symbol": "PRINCEPIPE",
       "yahoo_symbol": "PRINCEPIPE.NS",
       "status": "success",
@@ -8868,7 +8878,7 @@
       "error": null
     },
     {
-      "rank": 887,
+      "rank": 888,
       "nse_symbol": "GRAUWEIL",
       "yahoo_symbol": "GRAUWEIL.NS",
       "status": "success",
@@ -8878,7 +8888,7 @@
       "error": null
     },
     {
-      "rank": 888,
+      "rank": 889,
       "nse_symbol": "JASH",
       "yahoo_symbol": "JASH.NS",
       "status": "success",
@@ -8888,7 +8898,7 @@
       "error": null
     },
     {
-      "rank": 889,
+      "rank": 890,
       "nse_symbol": "GREENPLY",
       "yahoo_symbol": "GREENPLY.NS",
       "status": "success",
@@ -8898,7 +8908,7 @@
       "error": null
     },
     {
-      "rank": 890,
+      "rank": 891,
       "nse_symbol": "CMLL",
       "yahoo_symbol": "CMLL.NS",
       "status": "success",
@@ -8908,7 +8918,7 @@
       "error": null
     },
     {
-      "rank": 891,
+      "rank": 892,
       "nse_symbol": "ANUP",
       "yahoo_symbol": "ANUP.NS",
       "status": "success",
@@ -8918,7 +8928,7 @@
       "error": null
     },
     {
-      "rank": 892,
+      "rank": 893,
       "nse_symbol": "RML",
       "yahoo_symbol": "RML.NS",
       "status": "success",
@@ -8928,7 +8938,7 @@
       "error": null
     },
     {
-      "rank": 893,
+      "rank": 894,
       "nse_symbol": "CMSINFO",
       "yahoo_symbol": "CMSINFO.NS",
       "status": "success",
@@ -8938,7 +8948,7 @@
       "error": null
     },
     {
-      "rank": 894,
+      "rank": 895,
       "nse_symbol": "PACEDIGITK",
       "yahoo_symbol": "PACEDIGITK.NS",
       "status": "success",
@@ -8948,7 +8958,7 @@
       "error": null
     },
     {
-      "rank": 895,
+      "rank": 896,
       "nse_symbol": "JTEKTINDIA",
       "yahoo_symbol": "JTEKTINDIA.NS",
       "status": "success",
@@ -8958,7 +8968,7 @@
       "error": null
     },
     {
-      "rank": 896,
+      "rank": 897,
       "nse_symbol": "RAYMONDLSL",
       "yahoo_symbol": "RAYMONDLSL.NS",
       "status": "success",
@@ -8968,7 +8978,7 @@
       "error": null
     },
     {
-      "rank": 897,
+      "rank": 898,
       "nse_symbol": "VSTTILLERS",
       "yahoo_symbol": "VSTTILLERS.NS",
       "status": "success",
@@ -8978,7 +8988,7 @@
       "error": null
     },
     {
-      "rank": 898,
+      "rank": 899,
       "nse_symbol": "VSTIND",
       "yahoo_symbol": "VSTIND.NS",
       "status": "success",
@@ -8988,7 +8998,7 @@
       "error": null
     },
     {
-      "rank": 899,
+      "rank": 900,
       "nse_symbol": "SBC",
       "yahoo_symbol": "SBC.NS",
       "status": "success",
@@ -8998,7 +9008,7 @@
       "error": null
     },
     {
-      "rank": 900,
+      "rank": 901,
       "nse_symbol": "MOSCHIP",
       "yahoo_symbol": "MOSCHIP.NS",
       "status": "success",
@@ -9008,7 +9018,7 @@
       "error": null
     },
     {
-      "rank": 901,
+      "rank": 902,
       "nse_symbol": "NILKAMAL",
       "yahoo_symbol": "NILKAMAL.NS",
       "status": "success",
@@ -9018,7 +9028,7 @@
       "error": null
     },
     {
-      "rank": 902,
+      "rank": 903,
       "nse_symbol": "TVSSRICHAK",
       "yahoo_symbol": "TVSSRICHAK.NS",
       "status": "success",
@@ -9028,7 +9038,7 @@
       "error": null
     },
     {
-      "rank": 903,
+      "rank": 904,
       "nse_symbol": "UNIPARTS",
       "yahoo_symbol": "UNIPARTS.NS",
       "status": "success",
@@ -9038,7 +9048,7 @@
       "error": null
     },
     {
-      "rank": 904,
+      "rank": 905,
       "nse_symbol": "STYRENIX",
       "yahoo_symbol": "STYRENIX.NS",
       "status": "success",
@@ -9048,7 +9058,7 @@
       "error": null
     },
     {
-      "rank": 905,
+      "rank": 906,
       "nse_symbol": "MMFL",
       "yahoo_symbol": "MMFL.NS",
       "status": "success",
@@ -9058,7 +9068,7 @@
       "error": null
     },
     {
-      "rank": 906,
+      "rank": 907,
       "nse_symbol": "JKIL",
       "yahoo_symbol": "JKIL.NS",
       "status": "success",
@@ -9068,7 +9078,7 @@
       "error": null
     },
     {
-      "rank": 907,
+      "rank": 908,
       "nse_symbol": "WONDERLA",
       "yahoo_symbol": "WONDERLA.NS",
       "status": "success",
@@ -9078,7 +9088,7 @@
       "error": null
     },
     {
-      "rank": 908,
+      "rank": 909,
       "nse_symbol": "PNCINFRA",
       "yahoo_symbol": "PNCINFRA.NS",
       "status": "success",
@@ -9088,7 +9098,7 @@
       "error": null
     },
     {
-      "rank": 909,
+      "rank": 910,
       "nse_symbol": "GOPAL",
       "yahoo_symbol": "GOPAL.NS",
       "status": "success",
@@ -9098,7 +9108,7 @@
       "error": null
     },
     {
-      "rank": 910,
+      "rank": 911,
       "nse_symbol": "AURIONPRO",
       "yahoo_symbol": "AURIONPRO.NS",
       "status": "success",
@@ -9108,7 +9118,7 @@
       "error": null
     },
     {
-      "rank": 911,
+      "rank": 912,
       "nse_symbol": "SANGHVIMOV",
       "yahoo_symbol": "SANGHVIMOV.NS",
       "status": "success",
@@ -9118,7 +9128,7 @@
       "error": null
     },
     {
-      "rank": 912,
+      "rank": 913,
       "nse_symbol": "NFL",
       "yahoo_symbol": "NFL.NS",
       "status": "success",
@@ -9128,7 +9138,7 @@
       "error": null
     },
     {
-      "rank": 913,
+      "rank": 914,
       "nse_symbol": "SANGAMIND",
       "yahoo_symbol": "SANGAMIND.NS",
       "status": "success",
@@ -9138,7 +9148,7 @@
       "error": null
     },
     {
-      "rank": 914,
+      "rank": 915,
       "nse_symbol": "ARSSBL",
       "yahoo_symbol": "ARSSBL.NS",
       "status": "success",
@@ -9148,7 +9158,7 @@
       "error": null
     },
     {
-      "rank": 915,
+      "rank": 916,
       "nse_symbol": "REFEX",
       "yahoo_symbol": "REFEX.NS",
       "status": "success",
@@ -9158,7 +9168,7 @@
       "error": null
     },
     {
-      "rank": 916,
+      "rank": 917,
       "nse_symbol": "HIRECT",
       "yahoo_symbol": "HIRECT.NS",
       "status": "success",
@@ -9168,7 +9178,7 @@
       "error": null
     },
     {
-      "rank": 917,
+      "rank": 918,
       "nse_symbol": "JAYKAY",
       "yahoo_symbol": "JAYKAY.NS",
       "status": "success",
@@ -9178,7 +9188,7 @@
       "error": null
     },
     {
-      "rank": 918,
+      "rank": 919,
       "nse_symbol": "VINDHYATEL",
       "yahoo_symbol": "VINDHYATEL.NS",
       "status": "success",
@@ -9188,7 +9198,7 @@
       "error": null
     },
     {
-      "rank": 919,
+      "rank": 920,
       "nse_symbol": "INDSWFTLAB",
       "yahoo_symbol": "INDSWFTLAB.NS",
       "status": "success",
@@ -9198,7 +9208,7 @@
       "error": null
     },
     {
-      "rank": 920,
+      "rank": 921,
       "nse_symbol": "ASHOKA",
       "yahoo_symbol": "ASHOKA.NS",
       "status": "success",
@@ -9208,7 +9218,7 @@
       "error": null
     },
     {
-      "rank": 921,
+      "rank": 922,
       "nse_symbol": "ORIENTHOT",
       "yahoo_symbol": "ORIENTHOT.NS",
       "status": "success",
@@ -9218,7 +9228,7 @@
       "error": null
     },
     {
-      "rank": 922,
+      "rank": 923,
       "nse_symbol": "SANDHAR",
       "yahoo_symbol": "SANDHAR.NS",
       "status": "success",
@@ -9228,7 +9238,7 @@
       "error": null
     },
     {
-      "rank": 923,
+      "rank": 924,
       "nse_symbol": "PSPPROJECT",
       "yahoo_symbol": "PSPPROJECT.NS",
       "status": "success",
@@ -9238,7 +9248,7 @@
       "error": null
     },
     {
-      "rank": 924,
+      "rank": 925,
       "nse_symbol": "MAYURUNIQ",
       "yahoo_symbol": "MAYURUNIQ.NS",
       "status": "success",
@@ -9248,7 +9258,7 @@
       "error": null
     },
     {
-      "rank": 925,
+      "rank": 926,
       "nse_symbol": "LUMINO",
       "yahoo_symbol": "LUMINO.NS",
       "status": "success",
@@ -9258,7 +9268,7 @@
       "error": null
     },
     {
-      "rank": 926,
+      "rank": 927,
       "nse_symbol": "PREMEXPLN",
       "yahoo_symbol": "PREMEXPLN.NS",
       "status": "success",
@@ -9268,7 +9278,7 @@
       "error": null
     },
     {
-      "rank": 927,
+      "rank": 928,
       "nse_symbol": "ADVENZYMES",
       "yahoo_symbol": "ADVENZYMES.NS",
       "status": "success",
@@ -9278,7 +9288,7 @@
       "error": null
     },
     {
-      "rank": 928,
+      "rank": 929,
       "nse_symbol": "WEBELSOLAR",
       "yahoo_symbol": "WEBELSOLAR.NS",
       "status": "success",
@@ -9288,7 +9298,7 @@
       "error": null
     },
     {
-      "rank": 929,
+      "rank": 930,
       "nse_symbol": "ANTELOPUS",
       "yahoo_symbol": "ANTELOPUS.NS",
       "status": "success",
@@ -9298,7 +9308,7 @@
       "error": null
     },
     {
-      "rank": 930,
+      "rank": 931,
       "nse_symbol": "BBL",
       "yahoo_symbol": "BBL.NS",
       "status": "success",
@@ -9308,7 +9318,7 @@
       "error": null
     },
     {
-      "rank": 931,
+      "rank": 932,
       "nse_symbol": "KNRCON",
       "yahoo_symbol": "KNRCON.NS",
       "status": "success",
@@ -9318,7 +9328,7 @@
       "error": null
     },
     {
-      "rank": 932,
+      "rank": 933,
       "nse_symbol": "RATNAVEER",
       "yahoo_symbol": "RATNAVEER.NS",
       "status": "success",
@@ -9328,7 +9338,7 @@
       "error": null
     },
     {
-      "rank": 933,
+      "rank": 934,
       "nse_symbol": "WINDMACHIN",
       "yahoo_symbol": "WINDMACHIN.NS",
       "status": "success",
@@ -9338,7 +9348,7 @@
       "error": null
     },
     {
-      "rank": 934,
+      "rank": 935,
       "nse_symbol": "SEIL",
       "yahoo_symbol": "SEIL.NS",
       "status": "success",
@@ -9348,7 +9358,7 @@
       "error": null
     },
     {
-      "rank": 935,
+      "rank": 936,
       "nse_symbol": "HLEGLAS",
       "yahoo_symbol": "HLEGLAS.NS",
       "status": "success",
@@ -9358,7 +9368,7 @@
       "error": null
     },
     {
-      "rank": 936,
+      "rank": 937,
       "nse_symbol": "TRUALT",
       "yahoo_symbol": "TRUALT.NS",
       "status": "success",
@@ -9368,7 +9378,7 @@
       "error": null
     },
     {
-      "rank": 937,
+      "rank": 938,
       "nse_symbol": "INDRAMEDCO",
       "yahoo_symbol": "INDRAMEDCO.NS",
       "status": "success",
@@ -9378,7 +9388,7 @@
       "error": null
     },
     {
-      "rank": 938,
+      "rank": 939,
       "nse_symbol": "ELPROINTL",
       "yahoo_symbol": "ELPROINTL.NS",
       "status": "success",
@@ -9388,7 +9398,7 @@
       "error": null
     },
     {
-      "rank": 939,
+      "rank": 940,
       "nse_symbol": "EIEL",
       "yahoo_symbol": "EIEL.NS",
       "status": "success",
@@ -9398,7 +9408,7 @@
       "error": null
     },
     {
-      "rank": 940,
+      "rank": 941,
       "nse_symbol": "RSYSTEMS",
       "yahoo_symbol": "RSYSTEMS.NS",
       "status": "success",
@@ -9408,7 +9418,7 @@
       "error": null
     },
     {
-      "rank": 941,
+      "rank": 942,
       "nse_symbol": "POLYPLEX",
       "yahoo_symbol": "POLYPLEX.NS",
       "status": "success",
@@ -9418,7 +9428,7 @@
       "error": null
     },
     {
-      "rank": 942,
+      "rank": 943,
       "nse_symbol": "SHRINGARMS",
       "yahoo_symbol": "SHRINGARMS.NS",
       "status": "success",
@@ -9428,7 +9438,7 @@
       "error": null
     },
     {
-      "rank": 943,
+      "rank": 944,
       "nse_symbol": "KERNEX",
       "yahoo_symbol": "KERNEX.NS",
       "status": "success",
@@ -9438,7 +9448,7 @@
       "error": null
     },
     {
-      "rank": 944,
+      "rank": 945,
       "nse_symbol": "LASERPOWER",
       "yahoo_symbol": "LASERPOWER.NS",
       "status": "success",
@@ -9448,7 +9458,7 @@
       "error": null
     },
     {
-      "rank": 945,
+      "rank": 946,
       "nse_symbol": "EMUDHRA",
       "yahoo_symbol": "EMUDHRA.NS",
       "status": "success",
@@ -9458,7 +9468,7 @@
       "error": null
     },
     {
-      "rank": 946,
+      "rank": 947,
       "nse_symbol": "BALMLAWRIE",
       "yahoo_symbol": "BALMLAWRIE.NS",
       "status": "success",
@@ -9468,7 +9478,7 @@
       "error": null
     },
     {
-      "rank": 947,
+      "rank": 948,
       "nse_symbol": "DRAGARWQ",
       "yahoo_symbol": "DRAGARWQ.NS",
       "status": "success",
@@ -9478,7 +9488,7 @@
       "error": null
     },
     {
-      "rank": 948,
+      "rank": 949,
       "nse_symbol": "MARATHON",
       "yahoo_symbol": "MARATHON.NS",
       "status": "success",
@@ -9488,7 +9498,7 @@
       "error": null
     },
     {
-      "rank": 949,
+      "rank": 950,
       "nse_symbol": "TASTYBITE",
       "yahoo_symbol": "TASTYBITE.NS",
       "status": "success",
@@ -9498,7 +9508,7 @@
       "error": null
     },
     {
-      "rank": 950,
+      "rank": 951,
       "nse_symbol": "PROTEAN",
       "yahoo_symbol": "PROTEAN.NS",
       "status": "success",
@@ -9508,7 +9518,7 @@
       "error": null
     },
     {
-      "rank": 951,
+      "rank": 952,
       "nse_symbol": "ALEMBICLTD",
       "yahoo_symbol": "ALEMBICLTD.NS",
       "status": "success",
@@ -9518,7 +9528,7 @@
       "error": null
     },
     {
-      "rank": 952,
+      "rank": 953,
       "nse_symbol": "JTLIND",
       "yahoo_symbol": "JTLIND.NS",
       "status": "success",
@@ -9528,7 +9538,7 @@
       "error": null
     },
     {
-      "rank": 953,
+      "rank": 954,
       "nse_symbol": "SATIN",
       "yahoo_symbol": "SATIN.NS",
       "status": "success",
@@ -9538,7 +9548,7 @@
       "error": null
     },
     {
-      "rank": 954,
+      "rank": 955,
       "nse_symbol": "POCL",
       "yahoo_symbol": "POCL.NS",
       "status": "success",
@@ -9548,7 +9558,7 @@
       "error": null
     },
     {
-      "rank": 955,
+      "rank": 956,
       "nse_symbol": "ROUTE",
       "yahoo_symbol": "ROUTE.NS",
       "status": "success",
@@ -9558,7 +9568,7 @@
       "error": null
     },
     {
-      "rank": 956,
+      "rank": 957,
       "nse_symbol": "INTERARCH",
       "yahoo_symbol": "INTERARCH.NS",
       "status": "success",
@@ -9568,7 +9578,7 @@
       "error": null
     },
     {
-      "rank": 957,
+      "rank": 958,
       "nse_symbol": "MUTHOOTMF",
       "yahoo_symbol": "MUTHOOTMF.NS",
       "status": "success",
@@ -9578,7 +9588,7 @@
       "error": null
     },
     {
-      "rank": 958,
+      "rank": 959,
       "nse_symbol": "ARVSMART",
       "yahoo_symbol": "ARVSMART.NS",
       "status": "success",
@@ -9588,7 +9598,7 @@
       "error": null
     },
     {
-      "rank": 959,
+      "rank": 960,
       "nse_symbol": "WELSPLSOL",
       "yahoo_symbol": "WELSPLSOL.NS",
       "status": "success",
@@ -9598,7 +9608,7 @@
       "error": null
     },
     {
-      "rank": 960,
+      "rank": 961,
       "nse_symbol": "INDOTECH",
       "yahoo_symbol": "INDOTECH.NS",
       "status": "success",
@@ -9608,7 +9618,7 @@
       "error": null
     },
     {
-      "rank": 961,
+      "rank": 962,
       "nse_symbol": "BEPL",
       "yahoo_symbol": "BEPL.NS",
       "status": "success",
@@ -9618,7 +9628,7 @@
       "error": null
     },
     {
-      "rank": 962,
+      "rank": 963,
       "nse_symbol": "VAIBHAVGBL",
       "yahoo_symbol": "VAIBHAVGBL.NS",
       "status": "success",
@@ -9628,7 +9638,7 @@
       "error": null
     },
     {
-      "rank": 963,
+      "rank": 964,
       "nse_symbol": "XPROINDIA",
       "yahoo_symbol": "XPROINDIA.NS",
       "status": "success",
@@ -9638,7 +9648,7 @@
       "error": null
     },
     {
-      "rank": 964,
+      "rank": 965,
       "nse_symbol": "JUBLCPL",
       "yahoo_symbol": "JUBLCPL.NS",
       "status": "success",
@@ -9648,7 +9658,7 @@
       "error": null
     },
     {
-      "rank": 965,
+      "rank": 966,
       "nse_symbol": "NACLIND",
       "yahoo_symbol": "NACLIND.NS",
       "status": "success",
@@ -9658,7 +9668,7 @@
       "error": null
     },
     {
-      "rank": 966,
+      "rank": 967,
       "nse_symbol": "MONARCH",
       "yahoo_symbol": "MONARCH.NS",
       "status": "success",
@@ -9668,7 +9678,7 @@
       "error": null
     },
     {
-      "rank": 967,
+      "rank": 968,
       "nse_symbol": "DBCORP",
       "yahoo_symbol": "DBCORP.NS",
       "status": "success",
@@ -9678,7 +9688,7 @@
       "error": null
     },
     {
-      "rank": 968,
+      "rank": 969,
       "nse_symbol": "RELTD",
       "yahoo_symbol": "RELTD.NS",
       "status": "success",
@@ -9688,7 +9698,7 @@
       "error": null
     },
     {
-      "rank": 969,
+      "rank": 970,
       "nse_symbol": "CARRARO",
       "yahoo_symbol": "CARRARO.NS",
       "status": "success",
@@ -9698,7 +9708,7 @@
       "error": null
     },
     {
-      "rank": 970,
+      "rank": 971,
       "nse_symbol": "HEIDELBERG",
       "yahoo_symbol": "HEIDELBERG.NS",
       "status": "success",
@@ -9708,7 +9718,7 @@
       "error": null
     },
     {
-      "rank": 971,
+      "rank": 972,
       "nse_symbol": "MUFIN",
       "yahoo_symbol": "MUFIN.NS",
       "status": "success",
@@ -9718,7 +9728,7 @@
       "error": null
     },
     {
-      "rank": 972,
+      "rank": 973,
       "nse_symbol": "HIKAL",
       "yahoo_symbol": "HIKAL.NS",
       "status": "success",
@@ -9728,7 +9738,7 @@
       "error": null
     },
     {
-      "rank": 973,
+      "rank": 974,
       "nse_symbol": "AUTOAXLES",
       "yahoo_symbol": "AUTOAXLES.NS",
       "status": "success",
@@ -9738,7 +9748,7 @@
       "error": null
     },
     {
-      "rank": 974,
+      "rank": 975,
       "nse_symbol": "CARYSIL",
       "yahoo_symbol": "CARYSIL.NS",
       "status": "success",
@@ -9748,7 +9758,7 @@
       "error": null
     },
     {
-      "rank": 975,
+      "rank": 976,
       "nse_symbol": "KMCSHIL",
       "yahoo_symbol": "KMCSHIL.NS",
       "status": "success",
@@ -9758,7 +9768,7 @@
       "error": null
     },
     {
-      "rank": 976,
+      "rank": 977,
       "nse_symbol": "RAMCOIND",
       "yahoo_symbol": "RAMCOIND.NS",
       "status": "success",
@@ -9768,7 +9778,7 @@
       "error": null
     },
     {
-      "rank": 977,
+      "rank": 978,
       "nse_symbol": "NAVNETEDUL",
       "yahoo_symbol": "NAVNETEDUL.NS",
       "status": "success",
@@ -9778,7 +9788,7 @@
       "error": null
     },
     {
-      "rank": 978,
+      "rank": 979,
       "nse_symbol": "DCAL",
       "yahoo_symbol": "DCAL.NS",
       "status": "success",
@@ -9788,7 +9798,7 @@
       "error": null
     },
     {
-      "rank": 979,
+      "rank": 980,
       "nse_symbol": "CRIZAC",
       "yahoo_symbol": "CRIZAC.NS",
       "status": "success",
@@ -9798,7 +9808,7 @@
       "error": null
     },
     {
-      "rank": 980,
+      "rank": 981,
       "nse_symbol": "FUSION",
       "yahoo_symbol": "FUSION.NS",
       "status": "success",
@@ -9808,7 +9818,7 @@
       "error": null
     },
     {
-      "rank": 981,
+      "rank": 982,
       "nse_symbol": "KKCL",
       "yahoo_symbol": "KKCL.NS",
       "status": "success",
@@ -9818,7 +9828,7 @@
       "error": null
     },
     {
-      "rank": 982,
+      "rank": 983,
       "nse_symbol": "HGINFRA",
       "yahoo_symbol": "HGINFRA.NS",
       "status": "success",
@@ -9828,7 +9838,7 @@
       "error": null
     },
     {
-      "rank": 983,
+      "rank": 984,
       "nse_symbol": "RAMKY",
       "yahoo_symbol": "RAMKY.NS",
       "status": "success",
@@ -9838,7 +9848,7 @@
       "error": null
     },
     {
-      "rank": 984,
+      "rank": 985,
       "nse_symbol": "ADFFOODS",
       "yahoo_symbol": "ADFFOODS.NS",
       "status": "success",
@@ -9848,7 +9858,7 @@
       "error": null
     },
     {
-      "rank": 985,
+      "rank": 986,
       "nse_symbol": "INDNIPPON",
       "yahoo_symbol": "INDNIPPON.NS",
       "status": "success",
@@ -9858,7 +9868,7 @@
       "error": null
     },
     {
-      "rank": 986,
+      "rank": 987,
       "nse_symbol": "DIVGIITTS",
       "yahoo_symbol": "DIVGIITTS.NS",
       "status": "success",
@@ -9868,7 +9878,7 @@
       "error": null
     },
     {
-      "rank": 987,
+      "rank": 988,
       "nse_symbol": "TECHNVISN",
       "yahoo_symbol": "TECHNVISN.NS",
       "status": "success",
@@ -9878,7 +9888,7 @@
       "error": null
     },
     {
-      "rank": 988,
+      "rank": 989,
       "nse_symbol": "PANAMAPET",
       "yahoo_symbol": "PANAMAPET.NS",
       "status": "success",
@@ -9888,7 +9898,7 @@
       "error": null
     },
     {
-      "rank": 989,
+      "rank": 990,
       "nse_symbol": "FLAIR",
       "yahoo_symbol": "FLAIR.NS",
       "status": "success",
@@ -9898,7 +9908,7 @@
       "error": null
     },
     {
-      "rank": 990,
+      "rank": 991,
       "nse_symbol": "SASKEN",
       "yahoo_symbol": "SASKEN.NS",
       "status": "success",
@@ -9908,7 +9918,7 @@
       "error": null
     },
     {
-      "rank": 991,
+      "rank": 992,
       "nse_symbol": "AJMERA",
       "yahoo_symbol": "AJMERA.NS",
       "status": "success",
@@ -9918,7 +9928,7 @@
       "error": null
     },
     {
-      "rank": 992,
+      "rank": 993,
       "nse_symbol": "OSWALPUMPS",
       "yahoo_symbol": "OSWALPUMPS.NS",
       "status": "success",
@@ -9928,7 +9938,7 @@
       "error": null
     },
     {
-      "rank": 993,
+      "rank": 994,
       "nse_symbol": "DOLPHIN",
       "yahoo_symbol": "DOLPHIN.NS",
       "status": "success",
@@ -9938,7 +9948,7 @@
       "error": null
     },
     {
-      "rank": 994,
+      "rank": 995,
       "nse_symbol": "BLSE",
       "yahoo_symbol": "BLSE.NS",
       "status": "success",
@@ -9948,7 +9958,7 @@
       "error": null
     },
     {
-      "rank": 995,
+      "rank": 996,
       "nse_symbol": "ADOR",
       "yahoo_symbol": "ADOR.NS",
       "status": "success",
@@ -9958,7 +9968,7 @@
       "error": null
     },
     {
-      "rank": 996,
+      "rank": 997,
       "nse_symbol": "GANDHAR",
       "yahoo_symbol": "GANDHAR.NS",
       "status": "success",
@@ -9968,7 +9978,7 @@
       "error": null
     },
     {
-      "rank": 997,
+      "rank": 998,
       "nse_symbol": "NSIL",
       "yahoo_symbol": "NSIL.NS",
       "status": "success",
@@ -9978,7 +9988,7 @@
       "error": null
     },
     {
-      "rank": 998,
+      "rank": 999,
       "nse_symbol": "SPORTKING",
       "yahoo_symbol": "SPORTKING.NS",
       "status": "success",
@@ -9988,21 +9998,11 @@
       "error": null
     },
     {
-      "rank": 999,
+      "rank": 1000,
       "nse_symbol": "FREDUN",
       "yahoo_symbol": "FREDUN.NS",
       "status": "success",
       "bars": 1983,
-      "earliest_timestamp": "2026-11-04T03:45:00Z",
-      "latest_timestamp": "2026-11-13T09:59:00Z",
-      "error": null
-    },
-    {
-      "rank": 1000,
-      "nse_symbol": "PATELENG",
-      "yahoo_symbol": "PATELENG.NS",
-      "status": "success",
-      "bars": 2587,
       "earliest_timestamp": "2026-11-04T03:45:00Z",
       "latest_timestamp": "2026-11-13T09:59:00Z",
       "error": null
