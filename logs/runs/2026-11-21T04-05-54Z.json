@@ -1,0 +1,100 @@
+{
+  "failed_feeds": 2,
+  "feed_count": 6,
+  "feeds": [
+    {
+      "bars_fetched": 0,
+      "bars_inserted": 0,
+      "bars_updated": 0,
+      "duration_seconds": 338.631,
+      "earliest_timestamp": null,
+      "error": "HTTPError: HTTP Error 503: Service Unavailable",
+      "files_written": 0,
+      "latest_timestamp": null,
+      "name": "eurusd",
+      "provider": "dukascopy",
+      "status": "failed",
+      "symbol": "EURUSD"
+    },
+    {
+      "bars_fetched": 0,
+      "bars_inserted": 0,
+      "bars_updated": 0,
+      "duration_seconds": 371.329,
+      "earliest_timestamp": null,
+      "error": "HTTPError: HTTP Error 503: Service Unavailable",
+      "files_written": 0,
+      "latest_timestamp": null,
+      "name": "xauusd",
+      "provider": "dukascopy",
+      "status": "failed",
+      "symbol": "XAUUSD"
+    },
+    {
+      "bars_fetched": 9893,
+      "bars_inserted": 1105,
+      "bars_updated": 0,
+      "duration_seconds": 0.553,
+      "earliest_timestamp": "2026-11-12T00:00:00+00:00",
+      "error": null,
+      "files_written": 1,
+      "latest_timestamp": "2026-11-20T22:29:00+00:00",
+      "name": "eurusd",
+      "provider": "yahoo",
+      "status": "success",
+      "symbol": "EURUSD=X"
+    },
+    {
+      "bars_fetched": 7883,
+      "bars_inserted": 1083,
+      "bars_updated": 2,
+      "duration_seconds": 0.36,
+      "earliest_timestamp": "2026-11-13T05:00:00+00:00",
+      "error": null,
+      "files_written": 2,
+      "latest_timestamp": "2026-11-20T21:59:00+00:00",
+      "name": "gold_futures",
+      "provider": "yahoo",
+      "status": "success",
+      "symbol": "GC=F"
+    },
+    {
+      "bars_fetched": 2626,
+      "bars_inserted": 355,
+      "bars_updated": 1,
+      "duration_seconds": 0.386,
+      "earliest_timestamp": "2026-11-12T03:45:00+00:00",
+      "error": null,
+      "files_written": 1,
+      "latest_timestamp": "2026-11-20T10:00:00+00:00",
+      "name": "nifty_50_spot",
+      "provider": "yahoo",
+      "status": "success",
+      "symbol": "^NSEI"
+    },
+    {
+      "bars_fetched": 2877,
+      "bars_inserted": 372,
+      "bars_updated": 1,
+      "duration_seconds": 0.424,
+      "earliest_timestamp": "2026-11-12T01:42:00+00:00",
+      "error": null,
+      "files_written": 1,
+      "latest_timestamp": "2026-11-20T22:36:00+00:00",
+      "name": "usdinr",
+      "provider": "yahoo",
+      "status": "success",
+      "symbol": "USDINR=X"
+    }
+  ],
+  "run_completed_utc": "2026-11-21T04:12:05.336990+00:00",
+  "run_started_utc": "2026-11-21T04:05:54.000598+00:00",
+  "status": "partial_failure",
+  "successful_feeds": 4,
+  "totals": {
+    "bars_fetched": 23279,
+    "bars_inserted": 2915,
+    "bars_updated": 4,
+    "files_written": 5
+  }
+}
